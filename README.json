@@ -17,7 +17,7 @@
                 "last_commit": "2026-07-11T02:45:31Z",
                 "owner": "py-why",
                 "repo": "causal-learn",
-                "stars": 1674
+                "stars": 1675
               }
             },
             {
@@ -69,7 +69,7 @@
                 "last_commit": "2026-08-24T02:21:00Z",
                 "owner": "py-why",
                 "repo": "dowhy",
-                "stars": 8276
+                "stars": 8277
               }
             },
             {
@@ -166,7 +166,7 @@
                 "last_commit": "2026-07-11T02:45:31Z",
                 "owner": "py-why",
                 "repo": "causal-learn",
-                "stars": 1674
+                "stars": 1675
               }
             },
             {
@@ -1634,7 +1634,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:59:27.449Z",
+    "last_updated": "2026-08-24T17:08:48.348Z",
     "original_repository": "rguo12/awesome-causality-algorithms",
     "original_repository_id": 149516975,
     "original_repository_sha": "411ca24cf98eaaf7d3b17f8dba672355b7948a92",
