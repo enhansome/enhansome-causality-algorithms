@@ -47,7 +47,7 @@
                 "last_commit": "2025-06-28T12:41:32Z",
                 "owner": "DataCanvasIO",
                 "repo": "YLearn",
-                "stars": 433
+                "stars": 434
               }
             }
           ],
@@ -66,7 +66,7 @@
                 "archived": false,
                 "id": 135584946,
                 "language": "Python",
-                "last_commit": "2026-08-24T02:21:00Z",
+                "last_commit": "2026-08-25T02:29:09Z",
                 "owner": "py-why",
                 "repo": "dowhy",
                 "stars": 8277
@@ -315,8 +315,8 @@
                     },
                     {
                       "node_type": "item",
-                      "title": "SITE",
-                      "description": "Representation Learning for Treatment Effect Estimation from Observational Data Neurips 2018 Python",
+                      "title": "Python",
+                      "description": "Representation Learning for Treatment Effect Estimation from Observational Data Neurips 2018",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -1438,7 +1438,7 @@
                     "last_commit": "2026-05-26T16:18:38Z",
                     "owner": "xunzheng",
                     "repo": "notears",
-                    "stars": 684
+                    "stars": 685
                   }
                 },
                 {
@@ -1468,7 +1468,7 @@
                     "last_commit": "2026-05-26T16:18:38Z",
                     "owner": "xunzheng",
                     "repo": "notears",
-                    "stars": 684
+                    "stars": 685
                   }
                 },
                 {
@@ -1634,7 +1634,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T17:08:48.348Z",
+    "last_updated": "2026-08-25T05:53:33.375Z",
     "original_repository": "rguo12/awesome-causality-algorithms",
     "original_repository_id": 149516975,
     "original_repository_sha": "411ca24cf98eaaf7d3b17f8dba672355b7948a92",
