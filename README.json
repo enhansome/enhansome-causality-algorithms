@@ -66,10 +66,10 @@
                 "archived": false,
                 "id": 135584946,
                 "language": "Python",
-                "last_commit": "2026-08-25T02:29:09Z",
+                "last_commit": "2026-08-25T13:53:15Z",
                 "owner": "py-why",
                 "repo": "dowhy",
-                "stars": 8277
+                "stars": 8280
               }
             },
             {
@@ -84,7 +84,7 @@
                 "last_commit": "2026-08-20T15:25:36Z",
                 "owner": "uber",
                 "repo": "causalml",
-                "stars": 5967
+                "stars": 5969
               }
             },
             {
@@ -912,7 +912,7 @@
                 "last_commit": "2024-01-26T17:09:51Z",
                 "owner": "p-lambda",
                 "repo": "wilds",
-                "stars": 601
+                "stars": 602
               }
             },
             {
@@ -1634,7 +1634,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:53:33.375Z",
+    "last_updated": "2026-08-25T17:08:42.568Z",
     "original_repository": "rguo12/awesome-causality-algorithms",
     "original_repository_id": 149516975,
     "original_repository_sha": "411ca24cf98eaaf7d3b17f8dba672355b7948a92",
