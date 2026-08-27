@@ -17,7 +17,7 @@
                 "last_commit": "2026-07-11T02:45:31Z",
                 "owner": "py-why",
                 "repo": "causal-learn",
-                "stars": 1677
+                "stars": 1678
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2026-06-01T01:40:51Z",
                 "owner": "huawei-noah",
                 "repo": "trustworthyAI",
-                "stars": 1132
+                "stars": 1133
               }
             },
             {
@@ -69,7 +69,7 @@
                 "last_commit": "2026-08-26T13:55:19Z",
                 "owner": "py-why",
                 "repo": "dowhy",
-                "stars": 8282
+                "stars": 8283
               }
             },
             {
@@ -166,7 +166,7 @@
                 "last_commit": "2026-07-11T02:45:31Z",
                 "owner": "py-why",
                 "repo": "causal-learn",
-                "stars": 1677
+                "stars": 1678
               }
             },
             {
@@ -1634,9 +1634,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T18:21:37.412Z",
-    "original_repository": "rguo12/awesome-causality-algorithms",
-    "original_repository_id": 149516975,
+    "last_updated": "2026-08-27T11:28:28.848Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 149516975,
+      "language": null,
+      "last_commit": "2025-01-22T11:00:42Z",
+      "owner": "rguo12",
+      "repo": "awesome-causality-algorithms",
+      "stars": 3279
+    },
     "original_repository_sha": "411ca24cf98eaaf7d3b17f8dba672355b7948a92",
     "enhanced_repository": "enhansome/enhansome-causality-algorithms",
     "enhanced_repository_description": null,
