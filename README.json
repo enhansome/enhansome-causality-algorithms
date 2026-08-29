@@ -12,12 +12,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Causal Discovery in Python. Learning causality from data.",
+                "homepage": "https://causal-learn.readthedocs.io/en/latest/",
                 "id": 303161792,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-11T02:45:31Z",
+                "open_issues": 62,
                 "owner": "py-why",
                 "repo": "causal-learn",
-                "stars": 1680
+                "stars": 1680,
+                "topics": [
+                  "causal",
+                  "causal-discovery",
+                  "causal-inference",
+                  "causal-learning",
+                  "causal-representation-learning",
+                  "causality",
+                  "confounder",
+                  "graph",
+                  "hidden-causal",
+                  "independence-tests",
+                  "python",
+                  "statistics",
+                  "structure",
+                  "tetrad",
+                  "time-series"
+                ]
               },
               "first_seen": "2026-08-29T00:40:46.224Z"
             },
@@ -28,12 +49,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Trustworthy AI related projects",
+                "homepage": null,
                 "id": 248501097,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-01T01:40:51Z",
+                "open_issues": 22,
                 "owner": "huawei-noah",
                 "repo": "trustworthyAI",
-                "stars": 1133
+                "stars": 1133,
+                "topics": [
+                  "causal-discovery",
+                  "causal-inference",
+                  "causality",
+                  "graph",
+                  "independence-tests",
+                  "machine-learning",
+                  "python",
+                  "statistics",
+                  "structure"
+                ]
               },
               "first_seen": "2026-08-29T00:40:46.224Z"
             },
@@ -44,12 +80,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "YLearn, a pun of \"learn why\", is a python package for causal inference",
+                "homepage": "https://ylearn.readthedocs.io",
                 "id": 474895085,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-06-28T12:41:32Z",
+                "open_issues": 12,
                 "owner": "DataCanvasIO",
                 "repo": "YLearn",
-                "stars": 434
+                "stars": 434,
+                "topics": [
+                  "causal-discovery",
+                  "causal-inference",
+                  "causal-models",
+                  "causality",
+                  "causality-algorithms",
+                  "causality-analysis",
+                  "policy-learning",
+                  "uplift",
+                  "uplift-modeling"
+                ]
               },
               "first_seen": "2026-08-29T00:40:46.224Z"
             }
@@ -67,12 +118,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DoWhy is a Python library for causal inference that supports explicit modeling and testing of causal assumptions. DoWhy is based on a unified language for causal inference, combining causal graphical models and potential outcomes frameworks. ",
+                "homepage": "https://www.pywhy.org/dowhy",
                 "id": 135584946,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-28T23:12:29Z",
+                "open_issues": 237,
                 "owner": "py-why",
                 "repo": "dowhy",
-                "stars": 8290
+                "stars": 8290,
+                "topics": [
+                  "bayesian-networks",
+                  "causal-inference",
+                  "causal-machine-learning",
+                  "causal-models",
+                  "causality",
+                  "data-science",
+                  "do-calculus",
+                  "graphical-models",
+                  "machine-learning",
+                  "python3",
+                  "treatment-effects"
+                ]
               },
               "first_seen": "2026-08-29T00:40:46.224Z"
             },
@@ -83,12 +151,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Uplift modeling and causal inference with machine learning algorithms",
+                "homepage": null,
                 "id": 195914972,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-20T15:25:36Z",
+                "open_issues": 13,
                 "owner": "uber",
                 "repo": "causalml",
-                "stars": 5976
+                "stars": 5976,
+                "topics": [
+                  "causal-inference",
+                  "incubation",
+                  "machine-learning",
+                  "uplift-modeling"
+                ]
               },
               "first_seen": "2026-08-29T00:40:46.224Z"
             },
@@ -99,12 +177,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "💊 Comparing causality methods in a fair and just way.",
+                "homepage": "https://justcause.readthedocs.io/",
                 "id": 210542878,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2020-03-23T11:23:13Z",
+                "open_issues": 8,
                 "owner": "inovex",
                 "repo": "justcause",
-                "stars": 141
+                "stars": 141,
+                "topics": [
+                  "causality-algorithms",
+                  "causality-analysis",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-29T00:40:46.224Z"
             },
@@ -115,12 +202,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Python sandbox for decision making in dynamics",
+                "homepage": null,
                 "id": 215937010,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-11T11:32:07Z",
+                "open_issues": 6,
                 "owner": "socialfoundations",
                 "repo": "whynot",
-                "stars": 428
+                "stars": 428,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:40:46.224Z"
             },
@@ -131,12 +223,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":exclamation: uplift modeling in scikit-learn style in python :snake:",
+                "homepage": "https://www.uplift-modeling.com",
                 "id": 229347545,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-10-21T16:05:46Z",
+                "open_issues": 40,
                 "owner": "maks-sh",
                 "repo": "scikit-uplift",
-                "stars": 814
+                "stars": 814,
+                "topics": [
+                  "causal-inference",
+                  "causality",
+                  "individual-treatment-effects",
+                  "machine-learning",
+                  "net-lift",
+                  "true-lift",
+                  "uplift",
+                  "uplift-modeling",
+                  "uplift-modelling"
+                ]
               },
               "first_seen": "2026-08-29T00:40:46.224Z"
             }
@@ -154,12 +261,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Scalable open-source software to run, develop, and benchmark causal discovery algorithms",
+                "homepage": "https://benchpressdocs.readthedocs.io",
                 "id": 234086215,
                 "language": "Python",
+                "license": "GPL-2.0",
                 "last_commit": "2026-06-21T06:35:03Z",
+                "open_issues": 27,
                 "owner": "felixleopoldo",
                 "repo": "benchpress",
-                "stars": 84
+                "stars": 84,
+                "topics": [
+                  "bayesian-networks",
+                  "benchmarking",
+                  "causal-discovery",
+                  "causal-models",
+                  "causality",
+                  "graphical-models",
+                  "markov-networks",
+                  "reproducible-research",
+                  "snakemake-workflow",
+                  "structure-learning"
+                ]
               },
               "first_seen": "2026-08-29T00:40:46.224Z"
             },
@@ -170,12 +293,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Causal Discovery in Python. Learning causality from data.",
+                "homepage": "https://causal-learn.readthedocs.io/en/latest/",
                 "id": 303161792,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-11T02:45:31Z",
+                "open_issues": 62,
                 "owner": "py-why",
                 "repo": "causal-learn",
-                "stars": 1680
+                "stars": 1680,
+                "topics": [
+                  "causal",
+                  "causal-discovery",
+                  "causal-inference",
+                  "causal-learning",
+                  "causal-representation-learning",
+                  "causality",
+                  "confounder",
+                  "graph",
+                  "hidden-causal",
+                  "independence-tests",
+                  "python",
+                  "statistics",
+                  "structure",
+                  "tetrad",
+                  "time-series"
+                ]
               },
               "first_seen": "2026-08-29T00:40:46.224Z"
             },
@@ -186,12 +330,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "R Wrapper for Tetrad Library",
+                "homepage": null,
                 "id": 50114582,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2024-09-05T23:17:19Z",
+                "open_issues": 31,
                 "owner": "bd2kccd",
                 "repo": "r-causal",
-                "stars": 36
+                "stars": 36,
+                "topics": [
+                  "bayesian-networks",
+                  "causal-inference",
+                  "knowledge",
+                  "tetrad-library",
+                  "wrapper"
+                ]
               },
               "first_seen": "2026-08-29T00:40:46.224Z"
             },
@@ -202,12 +357,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python package for the creation, manipulation, and learning of Causal DAGs",
+                "homepage": null,
                 "id": 142711225,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2023-04-12T05:29:30Z",
+                "open_issues": 13,
                 "owner": "uhlerlab",
                 "repo": "causaldag",
-                "stars": 163
+                "stars": 163,
+                "topics": [
+                  "causal-dags",
+                  "causal-inference",
+                  "causal-models",
+                  "causality",
+                  "inference"
+                ]
               },
               "first_seen": "2026-08-29T00:40:46.224Z"
             },
@@ -218,12 +384,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 238206351,
                 "language": null,
+                "license": null,
                 "last_commit": "2020-02-04T12:58:31Z",
+                "open_issues": 0,
                 "owner": "diviyank",
                 "repo": "CausalDiscoveryToolbox",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:40:46.224Z"
             }
@@ -241,12 +412,38 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "ML powered analytics engine for outlier detection and root cause analysis.",
+                "homepage": "https://www.chaosgenius.io",
                 "id": 371296634,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-09-12T07:46:44Z",
+                "open_issues": 74,
                 "owner": "chaos-genius",
                 "repo": "chaos_genius",
-                "stars": 778
+                "stars": 778,
+                "topics": [
+                  "ai",
+                  "alert",
+                  "alert-messages",
+                  "analytics",
+                  "anomaly-detection",
+                  "business-intelligence",
+                  "data-visualization",
+                  "dataquality",
+                  "deep-learning",
+                  "hacktoberfest",
+                  "machine-learning",
+                  "ml",
+                  "monitoring",
+                  "monitoring-tool",
+                  "observability",
+                  "outlier-detection",
+                  "python",
+                  "rootcauseanalysis",
+                  "seasonality",
+                  "time-series"
+                ]
               },
               "first_seen": "2026-08-29T00:40:46.224Z"
             }
@@ -274,12 +471,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Counterfactual Regression",
+                        "homepage": null,
                         "id": 63134819,
                         "language": "Python",
+                        "license": null,
                         "last_commit": "2016-07-12T07:45:26Z",
+                        "open_issues": 0,
                         "owner": "oddrose",
                         "repo": "cfrnet",
-                        "stars": 25
+                        "stars": 25,
+                        "topics": []
                       },
                       "first_seen": "2026-08-29T00:40:46.224Z"
                     },
@@ -290,12 +492,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Counterfactual Regression",
+                        "homepage": null,
                         "id": 63134819,
                         "language": "Python",
+                        "license": null,
                         "last_commit": "2016-07-12T07:45:26Z",
+                        "open_issues": 0,
                         "owner": "oddrose",
                         "repo": "cfrnet",
-                        "stars": 25
+                        "stars": 25,
+                        "topics": []
                       },
                       "first_seen": "2026-08-29T00:40:46.224Z"
                     },
@@ -306,12 +513,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": true,
+                        "description": "Causal Effect Inference with Deep Latent-Variable Models",
+                        "homepage": null,
                         "id": 92983739,
                         "language": "Python",
+                        "license": null,
                         "last_commit": "2020-07-17T09:35:21Z",
+                        "open_issues": 2,
                         "owner": "AMLab-Amsterdam",
                         "repo": "CEVAE",
-                        "stars": 368
+                        "stars": 368,
+                        "topics": []
                       },
                       "first_seen": "2026-08-29T00:40:46.224Z"
                     },
@@ -322,12 +534,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": null,
+                        "homepage": null,
                         "id": 190123576,
                         "language": "Python",
+                        "license": null,
                         "last_commit": "2022-04-03T07:23:04Z",
+                        "open_issues": 3,
                         "owner": "claudiashi57",
                         "repo": "dragonnet",
-                        "stars": 298
+                        "stars": 298,
+                        "topics": []
                       },
                       "first_seen": "2026-08-29T00:40:46.224Z"
                     },
@@ -338,12 +555,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": null,
+                        "homepage": null,
                         "id": 154392132,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2022-03-24T08:17:16Z",
+                        "open_issues": 4,
                         "owner": "Osier-Yi",
                         "repo": "SITE",
-                        "stars": 59
+                        "stars": 59,
+                        "topics": []
                       },
                       "first_seen": "2026-08-29T00:40:46.224Z"
                     },
@@ -354,12 +576,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Codebase for GANITE: Estimation of Individualized Treatment Effects using GANs - ICLR 2018",
+                        "homepage": null,
                         "id": 258856060,
                         "language": "Python",
+                        "license": null,
                         "last_commit": "2020-04-25T19:23:55Z",
+                        "open_issues": 0,
                         "owner": "jsyoon0823",
                         "repo": "GANITE",
-                        "stars": 72
+                        "stars": 72,
+                        "topics": []
                       },
                       "first_seen": "2026-08-29T00:40:46.224Z"
                     },
@@ -370,12 +597,22 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "➕➕ Perfect Match is a simple method for learning representations for counterfactual inference with neural networks.",
+                        "homepage": null,
                         "id": 155579900,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2023-03-24T23:48:55Z",
+                        "open_issues": 1,
                         "owner": "d909b",
                         "repo": "perfect_match",
-                        "stars": 132
+                        "stars": 132,
+                        "topics": [
+                          "causal-inference",
+                          "deep-learning",
+                          "machine-learning",
+                          "neural-networks"
+                        ]
                       },
                       "first_seen": "2026-08-29T00:40:46.224Z"
                     },
@@ -386,12 +623,24 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "A General Causal Inference Framework by Encoding Generative Modeling",
+                        "homepage": "https://causalegm.readthedocs.io/",
                         "id": 500638787,
                         "language": "Python",
+                        "license": null,
                         "last_commit": "2024-06-01T23:58:42Z",
+                        "open_issues": 1,
                         "owner": "SUwonglab",
                         "repo": "CausalEGM",
-                        "stars": 75
+                        "stars": 75,
+                        "topics": [
+                          "causal-inference",
+                          "causal-machine-learning",
+                          "causality",
+                          "deep-generative-model",
+                          "generative-model",
+                          "treatment-effects"
+                        ]
                       },
                       "first_seen": "2026-08-29T00:40:46.224Z"
                     }
@@ -409,12 +658,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Tools for causal analysis",
+                        "homepage": null,
                         "id": 36268293,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2025-03-11T23:41:53Z",
+                        "open_issues": 13,
                         "owner": "akelleh",
                         "repo": "causality",
-                        "stars": 1081
+                        "stars": 1081,
+                        "topics": []
                       },
                       "first_seen": "2026-08-29T00:40:46.224Z"
                     }
@@ -432,12 +686,24 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Generalized Random Forests ",
+                        "homepage": "https://grf-labs.github.io/grf/",
                         "id": 65554548,
                         "language": "C++",
+                        "license": "GPL-3.0",
                         "last_commit": "2026-04-30T18:40:09Z",
+                        "open_issues": 69,
                         "owner": "grf-labs",
                         "repo": "grf",
-                        "stars": 1106
+                        "stars": 1106,
+                        "topics": [
+                          "causal-forest",
+                          "causal-inference",
+                          "econometrics",
+                          "machine-learning",
+                          "random-forest",
+                          "statistics"
+                        ]
                       },
                       "first_seen": "2026-08-29T00:40:46.224Z"
                     },
@@ -448,12 +714,24 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Generalized Random Forests ",
+                        "homepage": "https://grf-labs.github.io/grf/",
                         "id": 65554548,
                         "language": "C++",
+                        "license": "GPL-3.0",
                         "last_commit": "2026-04-30T18:40:09Z",
+                        "open_issues": 69,
                         "owner": "grf-labs",
                         "repo": "grf",
-                        "stars": 1106
+                        "stars": 1106,
+                        "topics": [
+                          "causal-forest",
+                          "causal-inference",
+                          "econometrics",
+                          "machine-learning",
+                          "random-forest",
+                          "statistics"
+                        ]
                       },
                       "first_seen": "2026-08-29T00:40:46.224Z"
                     },
@@ -464,12 +742,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Bayesian Additive Regression Trees For Python",
+                        "homepage": "https://jakecoltman.github.io/bartpy/",
                         "id": 142431994,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2023-12-22T23:15:54Z",
+                        "open_issues": 32,
                         "owner": "JakeColtman",
                         "repo": "bartpy",
-                        "stars": 232
+                        "stars": 232,
+                        "topics": []
                       },
                       "first_seen": "2026-08-29T00:40:46.224Z"
                     }
@@ -487,12 +770,20 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": null,
+                        "homepage": null,
                         "id": 81411278,
                         "language": null,
+                        "license": null,
                         "last_commit": "2022-06-18T00:13:15Z",
+                        "open_issues": 5,
                         "owner": "soerenkuenzel",
                         "repo": "hte",
-                        "stars": 35
+                        "stars": 35,
+                        "topics": [
+                          "causal-inference",
+                          "random-forest"
+                        ]
                       },
                       "first_seen": "2026-08-29T00:40:46.224Z"
                     }
@@ -515,12 +806,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": ":exclamation: This is a read-only mirror of the CRAN R package repository.  ipw — Estimate Inverse Probability Weights. Homepage: https://github.com/TranHung93/ipw  Report bugs for this package: https://github.com/TranHung93/ipw/issues",
+                    "homepage": null,
                     "id": 17696822,
                     "language": "R",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-01-28T07:31:29Z",
+                    "open_issues": 1,
                     "owner": "cran",
                     "repo": "ipw",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:40:46.224Z"
                 },
@@ -531,12 +827,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "R package for fast and easy doubly robust estimation of treatments effects",
+                    "homepage": null,
                     "id": 26292465,
                     "language": "R",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-05-15T22:49:59Z",
+                    "open_issues": 0,
                     "owner": "gregridgeway",
                     "repo": "fastDR",
-                    "stars": 7
+                    "stars": 7,
+                    "topics": [
+                      "causal-inference",
+                      "doubly-robust",
+                      "propensity-scores",
+                      "treatments-effects"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:40:46.224Z"
                 },
@@ -547,12 +853,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "R package for doubly robust estimates of causal effects in high-dimensions using flexible Bayesian methods",
+                    "homepage": null,
                     "id": 133236244,
                     "language": "R",
+                    "license": null,
                     "last_commit": "2024-11-21T15:03:03Z",
+                    "open_issues": 0,
                     "owner": "jantonelli111",
                     "repo": "DoublyRobustHD",
-                    "stars": 27
+                    "stars": 27,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:40:46.224Z"
                 },
@@ -563,12 +874,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": ":exclamation: This is a read-only mirror of the CRAN R package repository.  ebal — Entropy Reweighting to Create Balanced Samples. Homepage: https://web.stanford.edu/~jhain/, https://github.com/j-hai/ebal  Report bugs for this package: https://github.com/j-hai/ebal/issues",
+                    "homepage": null,
                     "id": 17695702,
                     "language": "R",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-04-29T09:30:16Z",
+                    "open_issues": 0,
                     "owner": "cran",
                     "repo": "ebal",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:40:46.224Z"
                 },
@@ -579,12 +895,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "R package: CBPS",
+                    "homepage": null,
                     "id": 72245166,
                     "language": "R",
+                    "license": null,
                     "last_commit": "2025-11-30T20:34:47Z",
+                    "open_issues": 1,
                     "owner": "kosukeimai",
                     "repo": "CBPS",
-                    "stars": 30
+                    "stars": 30,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:40:46.224Z"
                 },
@@ -595,12 +916,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Approximately balanced estimation of average treatment effects in high dimensions.",
+                    "homepage": null,
                     "id": 55437944,
                     "language": "R",
+                    "license": "GPL-3.0",
                     "last_commit": "2021-07-29T09:00:24Z",
+                    "open_issues": 0,
                     "owner": "swager",
                     "repo": "balanceHD",
-                    "stars": 35
+                    "stars": 35,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:40:46.224Z"
                 }
@@ -618,12 +944,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Implementation of Deep IV: A Flexible Approach for Counterfactual Prediction",
+                    "homepage": null,
                     "id": 91748413,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2021-06-17T07:06:03Z",
+                    "open_issues": 6,
                     "owner": "jhartford",
                     "repo": "DeepIV",
-                    "stars": 161
+                    "stars": 161,
+                    "topics": [
+                      "causal-inference",
+                      "deep-learning",
+                      "instrumental-variable"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:40:46.224Z"
                 }
@@ -641,12 +976,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A python package with tools to perform causal inference using observational data when the treatment of interest is continuous.",
+                    "homepage": null,
                     "id": 256017107,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-01-05T17:41:54Z",
+                    "open_issues": 4,
                     "owner": "ronikobrosly",
                     "repo": "causal-curve",
-                    "stars": 284
+                    "stars": 284,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:40:46.224Z"
                 },
@@ -657,12 +997,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "💉📈 Dose response networks (DRNets) are a method for learning to estimate individual dose-response curves for multiple parametric treatments from observational data using neural networks.",
+                    "homepage": null,
                     "id": 166119254,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2023-03-24T23:57:55Z",
+                    "open_issues": 3,
                     "owner": "d909b",
                     "repo": "drnet",
-                    "stars": 95
+                    "stars": 95,
+                    "topics": [
+                      "causal-inference",
+                      "deep-learning",
+                      "machine-learning",
+                      "neural-networks"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:40:46.224Z"
                 }
@@ -680,12 +1030,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Causal Effect Inference for Structured Treatments (SIN) (NeurIPS 2021)",
+                    "homepage": null,
                     "id": 372560143,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2022-04-26T14:27:55Z",
+                    "open_issues": 1,
                     "owner": "JeanKaddour",
                     "repo": "SIN",
-                    "stars": 42
+                    "stars": 42,
+                    "topics": [
+                      "causal-inference",
+                      "deep-learning"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:40:46.224Z"
                 }
@@ -703,12 +1061,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 149555302,
                     "language": "Jupyter Notebook",
+                    "license": "MIT",
                     "last_commit": "2020-04-03T23:29:52Z",
+                    "open_issues": 2,
                     "owner": "blei-lab",
                     "repo": "deconfounder_tutorial",
-                    "stars": 87
+                    "stars": 87,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:40:46.224Z"
                 }
@@ -726,12 +1089,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Multiple Response Uplift (or heterogeneous treatment effects) package that builds and evaluates tradeoffs with multiple treatments and multiple responses",
+                    "homepage": null,
                     "id": 251754430,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-04-26T12:10:49Z",
+                    "open_issues": 2,
                     "owner": "Ibotta",
                     "repo": "mr_uplift",
-                    "stars": 71
+                    "stars": 71,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:40:46.224Z"
                 }
@@ -756,12 +1124,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Synthetic difference in differences",
+                    "homepage": "https://synth-inference.github.io/synthdid",
                     "id": 171597070,
                     "language": "R",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2024-01-15T20:39:02Z",
+                    "open_issues": 59,
                     "owner": "synth-inference",
                     "repo": "synthdid",
-                    "stars": 312
+                    "stars": 312,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:40:46.224Z"
                 },
@@ -772,12 +1145,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": ":exclamation: This is a read-only mirror of the CRAN R package repository.  bsts — Bayesian Structural Time Series  ",
+                    "homepage": null,
                     "id": 21275378,
                     "language": "R",
+                    "license": "NOASSERTION",
                     "last_commit": "2025-09-05T17:32:06Z",
+                    "open_issues": 0,
                     "owner": "cran",
                     "repo": "bsts",
-                    "stars": 34
+                    "stars": 34,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:40:46.224Z"
                 },
@@ -788,12 +1166,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code for ICML 2020 paper: \"Time Series Deconfounder: Estimating Treatment Effects over Time in the Presence of Hidden Confounders\" by I. Bica, A. M. Alaa, M. van der Schaar",
+                    "homepage": null,
                     "id": 282249008,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2021-01-07T13:14:30Z",
+                    "open_issues": 0,
                     "owner": "ioanabica",
                     "repo": "Time-Series-Deconfounder",
-                    "stars": 52
+                    "stars": 52,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:40:46.224Z"
                 },
@@ -804,12 +1187,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 152630068,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2018-12-11T14:40:44Z",
+                    "open_issues": 2,
                     "owner": "sjblim",
                     "repo": "rmsn_nips_2018",
-                    "stars": 40
+                    "stars": 40,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:40:46.224Z"
                 },
@@ -820,12 +1208,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Longitudinal Targeted Maximum Likelihood Estimation package",
+                    "homepage": "http://joshuaschwab.github.io/ltmle/",
                     "id": 9894073,
                     "language": "R",
+                    "license": null,
                     "last_commit": "2026-06-03T16:34:57Z",
+                    "open_issues": 11,
                     "owner": "joshuaschwab",
                     "repo": "ltmle",
-                    "stars": 28
+                    "stars": 28,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:40:46.224Z"
                 },
@@ -836,12 +1229,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code for the paper \"Causal Transformer for Estimating Counterfactual Outcomes\"",
+                    "homepage": null,
                     "id": 490394168,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-08-13T15:25:39Z",
+                    "open_issues": 2,
                     "owner": "Valentyn1997",
                     "repo": "CausalTransformer",
-                    "stars": 194
+                    "stars": 194,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:40:46.224Z"
                 }
@@ -859,12 +1257,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code for the WSDM '20 paper, Learning Individual Causal Effects from Networked Observational Data.",
+                    "homepage": null,
                     "id": 226224791,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2021-07-08T19:27:18Z",
+                    "open_issues": 0,
                     "owner": "rguo12",
                     "repo": "network-deconfounder-wsdm20",
-                    "stars": 78
+                    "stars": 78,
+                    "topics": [
+                      "causal-inference",
+                      "causal-machine-learning",
+                      "causality-algorithms",
+                      "graph-convolutional-networks",
+                      "graph-neural-networks",
+                      "treatment-effects"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:40:46.224Z"
                 },
@@ -875,12 +1285,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Software and pre-processed data for \"Using Embeddings to Correct for Unobserved Confounding in Networks\"",
+                    "homepage": null,
                     "id": 189626851,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2023-02-24T17:43:23Z",
+                    "open_issues": 0,
                     "owner": "vveitch",
                     "repo": "causal-network-embeddings",
-                    "stars": 56
+                    "stars": 56,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:40:46.224Z"
                 },
@@ -891,12 +1306,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code for CIKM'18 paper, Linked Causal Variational Autoencoder for Inferring Paired Spillover Effects.",
+                    "homepage": null,
                     "id": 143958653,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2023-01-15T10:53:33Z",
+                    "open_issues": 2,
                     "owner": "rguo12",
                     "repo": "CIKM18-LCVA",
-                    "stars": 15
+                    "stars": 15,
+                    "topics": [
+                      "causal-inference",
+                      "network-embedding",
+                      "treatment-effects",
+                      "variational-autoencoder",
+                      "variational-inference"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:40:46.224Z"
                 },
@@ -907,12 +1333,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code for paper on causal inference under network interference with noise ",
+                    "homepage": null,
                     "id": 314067080,
                     "language": "R",
+                    "license": null,
                     "last_commit": "2024-07-30T21:01:54Z",
+                    "open_issues": 0,
                     "owner": "KolaczykResearch",
                     "repo": "CausInfNoisyNet",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:40:46.224Z"
                 }
@@ -941,12 +1372,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "DomainBed is a suite to test domain generalization algorithms",
+                "homepage": null,
                 "id": 275930636,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-12-16T17:09:28Z",
+                "open_issues": 7,
                 "owner": "facebookresearch",
                 "repo": "DomainBed",
-                "stars": 1630
+                "stars": 1630,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:40:46.224Z"
             },
@@ -957,12 +1393,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A machine learning benchmark of in-the-wild distribution shifts, with data loaders, evaluators, and default models.",
+                "homepage": "https://wilds.stanford.edu",
                 "id": 320346918,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-01-26T17:09:51Z",
+                "open_issues": 19,
                 "owner": "p-lambda",
                 "repo": "wilds",
-                "stars": 602
+                "stars": 602,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:40:46.224Z"
             },
@@ -973,12 +1414,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Repository for theory and methods for Out-of-Distribution (OoD) generalization",
+                "homepage": "https://arxiv.org/abs/2002.04692",
                 "id": 246919894,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2022-03-04T16:41:56Z",
+                "open_issues": 0,
                 "owner": "IBM",
                 "repo": "OoD",
-                "stars": 63
+                "stars": 63,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:40:46.224Z"
             },
@@ -989,12 +1435,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR'22 Oral] Quantifying and Understanding Two Dimensions of Out-of-Distribution Generalization",
+                "homepage": null,
                 "id": 487233571,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-10-30T08:44:12Z",
+                "open_issues": 3,
                 "owner": "m-Just",
                 "repo": "OoD-Bench",
-                "stars": 45
+                "stars": 45,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:40:46.224Z"
             },
@@ -1005,12 +1456,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 218625237,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-09-01T21:24:54Z",
+                "open_issues": 3,
                 "owner": "Google-Health",
                 "repo": "records-research",
-                "stars": 234
+                "stars": 234,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:40:46.224Z"
             },
@@ -1023,12 +1479,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[NeurIPS 2022] Learning Causally Invariant Representations for Out-of-Distribution Generalization on Graphs ",
+                    "homepage": "https://arxiv.org/abs/2202.05441",
                     "id": 546551158,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2023-08-28T16:07:49Z",
+                    "open_issues": 1,
                     "owner": "LFhase",
                     "repo": "CIGA",
-                    "stars": 123
+                    "stars": 123,
+                    "topics": [
+                      "causal-inference",
+                      "causal-representation-learning",
+                      "distribution-shift",
+                      "drug-discovery",
+                      "graph-neural-networks",
+                      "graph-representation-learning",
+                      "invariant-learning",
+                      "out-of-distribution-generalization"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:40:46.224Z"
                 }
@@ -1053,12 +1523,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Reinforced Recommendation toolkit built around pytorch 1.7",
+                    "homepage": null,
                     "id": 166170681,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2020-12-08T11:37:49Z",
+                    "open_issues": 1,
                     "owner": "awarebayes",
                     "repo": "RecNN",
-                    "stars": 587
+                    "stars": 587,
+                    "topics": [
+                      "library",
+                      "news-recommendation",
+                      "pytorch",
+                      "pytorch-rl",
+                      "recommendation-system",
+                      "recommender-system",
+                      "reinforcement-learning",
+                      "toolkit"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:40:46.224Z"
                 },
@@ -1069,12 +1553,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "(WSDM2020) \"Unbiased Recommender Learning from Missing-Not-At-Random Implicit Feedback\"",
+                    "homepage": null,
                     "id": 239254043,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2022-11-21T21:50:44Z",
+                    "open_issues": 6,
                     "owner": "usaito",
                     "repo": "unbiased-implicit-rec-real",
-                    "stars": 30
+                    "stars": 30,
+                    "topics": [
+                      "implicit-feedback",
+                      "machine-learning",
+                      "matrix-factorization",
+                      "recommender-system",
+                      "research"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:40:46.224Z"
                 },
@@ -1085,12 +1580,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 142071464,
                     "language": "Jupyter Notebook",
+                    "license": null,
                     "last_commit": "2018-10-01T21:37:50Z",
+                    "open_issues": 2,
                     "owner": "ylongqi",
                     "repo": "unbiased-offline-recommender-evaluation",
-                    "stars": 35
+                    "stars": 35,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:40:46.224Z"
                 }
@@ -1108,12 +1608,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 285109004,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2022-04-08T17:42:23Z",
+                    "open_issues": 0,
                     "owner": "yixinwang",
                     "repo": "causal-recsys-public",
-                    "stars": 47
+                    "stars": 47,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:40:46.224Z"
                 }
@@ -1131,12 +1636,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code for the Recsys 2018 paper entitled Causal Embeddings for Recommandation.",
+                    "homepage": null,
                     "id": 142569591,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2018-10-24T04:10:54Z",
+                    "open_issues": 4,
                     "owner": "criteo-research",
                     "repo": "CausE",
-                    "stars": 248
+                    "stars": 248,
+                    "topics": [
+                      "causal-inference",
+                      "causality",
+                      "embeddings",
+                      "tensorflow"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:40:46.224Z"
                 },
@@ -1147,12 +1662,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Towards Resolving Propensity Contradiction in Offline Recommender Learning",
+                    "homepage": null,
                     "id": 483970294,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2022-04-21T08:34:48Z",
+                    "open_issues": 0,
                     "owner": "usaito",
                     "repo": "ijcai2022-adversarial-mf",
-                    "stars": 6
+                    "stars": 6,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:40:46.224Z"
                 }
@@ -1170,12 +1690,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The official implementation of \"Disentangling User Interest and Conformity for Recommendation with Causal Embedding\" (WWW '21)",
+                    "homepage": null,
                     "id": 339338255,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-06-04T05:29:01Z",
+                    "open_issues": 0,
                     "owner": "tsinghua-fib-lab",
                     "repo": "DICE",
-                    "stars": 158
+                    "stars": 158,
+                    "topics": [
+                      "causal-inference",
+                      "causality",
+                      "recommendation",
+                      "recommendation-system",
+                      "recommender-system"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:40:46.224Z"
                 }
@@ -1198,12 +1729,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 265020122,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-04-09T08:38:07Z",
+                "open_issues": 0,
                 "owner": "HarrieO",
                 "repo": "2020topkunbiasedltr",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:40:46.224Z"
             },
@@ -1214,12 +1750,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repository contains the code for paper titled \"Correcting for Selection Bias in Learning-to-rank Systems\" appeared in WWW'20, Taiwan.",
+                "homepage": null,
                 "id": 237326169,
                 "language": "C",
+                "license": null,
                 "last_commit": "2020-04-20T07:32:02Z",
+                "open_issues": 1,
                 "owner": "edgeslab",
                 "repo": "heckman_rank",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:40:46.224Z"
             },
@@ -1230,12 +1771,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for WWW'19 \"Unbiased LambdaMART: An Unbiased Pairwise Learning-to-Rank Algorithm\", which is based on LightGBM",
+                "homepage": null,
                 "id": 172849438,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2019-10-30T09:08:08Z",
+                "open_issues": 6,
                 "owner": "acbull",
                 "repo": "Unbiased_LambdaMart",
-                "stars": 225
+                "stars": 225,
+                "topics": [
+                  "bias",
+                  "learning-to-rank",
+                  "lightgbm"
+                ]
               },
               "first_seen": "2026-08-29T00:40:46.224Z"
             },
@@ -1246,12 +1796,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is an implementation of the Dual Learning Algorithm with multi-layer feed-forward neural network for online unbiased learning to rank.",
+                "homepage": null,
                 "id": 129648930,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-02-01T02:44:33Z",
+                "open_issues": 4,
                 "owner": "QingyaoAi",
                 "repo": "Unbiased-Learning-to-Rank-with-Unbiased-Propensity-Estimation",
-                "stars": 89
+                "stars": 89,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:40:46.224Z"
             }
@@ -1269,12 +1824,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 189271719,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2019-10-25T21:58:19Z",
+                "open_issues": 1,
                 "owner": "CausalML",
                 "repo": "LatentConfounderBalancing",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:40:46.224Z"
             }
@@ -1292,12 +1852,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Find text features that are most related to an outcome, controlling for confounds.",
+                "homepage": null,
                 "id": 216665750,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-07-25T10:58:28Z",
+                "open_issues": 2,
                 "owner": "rpryzant",
                 "repo": "deconfounded-lexicon-induction",
-                "stars": 60
+                "stars": 60,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:40:46.224Z"
             },
@@ -1308,12 +1873,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Software and data for \"Using Text Embeddings for Causal Inference\"",
+                "homepage": null,
                 "id": 189052931,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-09-23T17:32:00Z",
+                "open_issues": 3,
                 "owner": "blei-lab",
                 "repo": "causal-text-embeddings",
-                "stars": 126
+                "stars": 126,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:40:46.224Z"
             },
@@ -1324,12 +1894,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for \"Challenges of Using Text Classifiers for Causal Inference,\" at EMNLP '18",
+                "homepage": null,
                 "id": 146395635,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-09-23T23:26:31Z",
+                "open_issues": 0,
                 "owner": "zachwooddoughty",
                 "repo": "emnlp2018-causal",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:40:46.224Z"
             }
@@ -1347,12 +1922,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 962514788,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2025-09-12T09:10:24Z",
+                "open_issues": 4,
                 "owner": "microsoft",
                 "repo": "DICE",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:40:46.224Z"
             }
@@ -1370,12 +1950,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for \"Counterfactual Fairness\" (NIPS2017)",
+                "homepage": null,
                 "id": 141272624,
                 "language": "R",
+                "license": null,
                 "last_commit": "2018-07-18T08:40:39Z",
+                "open_issues": 2,
                 "owner": "mkusner",
                 "repo": "counterfactual-fairness",
-                "stars": 56
+                "stars": 56,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:40:46.224Z"
             },
@@ -1386,12 +1971,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 296454601,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-09-17T22:27:52Z",
+                "open_issues": 0,
                 "owner": "yongkaiwu",
                 "repo": "Path-specific-Counterfactual-Fairness",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:40:46.224Z"
             },
@@ -1402,12 +1992,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AI Ethics Term project",
+                "homepage": null,
                 "id": 279044328,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2020-07-12T10:50:37Z",
+                "open_issues": 0,
                 "owner": "SaiSakethAluru",
                 "repo": "Counterfactual-fairness",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:40:46.224Z"
             }
@@ -1425,12 +2020,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deconfounding Reinforcement Learning in Observational Settings",
+                "homepage": null,
                 "id": 162741008,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2019-04-13T22:45:57Z",
+                "open_issues": 2,
                 "owner": "CausalRL",
                 "repo": "DRL",
-                "stars": 52
+                "stars": 52,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:40:46.224Z"
             }
@@ -1456,12 +2056,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Tools for causal analysis",
+                    "homepage": null,
                     "id": 36268293,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-03-11T23:41:53Z",
+                    "open_issues": 13,
                     "owner": "akelleh",
                     "repo": "causality",
-                    "stars": 1081
+                    "stars": 1081,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:40:46.224Z"
                 },
@@ -1472,12 +2077,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "CPDAG Estimation using PC-Algorithm",
+                    "homepage": null,
                     "id": 37721316,
                     "language": "Python",
+                    "license": "BSD-2-Clause",
                     "last_commit": "2022-04-18T02:51:56Z",
+                    "open_issues": 4,
                     "owner": "keiichishima",
                     "repo": "pcalg",
-                    "stars": 97
+                    "stars": 97,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:40:46.224Z"
                 },
@@ -1488,12 +2098,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": ":exclamation: This is a read-only mirror of the CRAN R package repository.  pcalg — Methods for Graphical Models and Causal Inference. Homepage: https://pcalg.r-forge.r-project.org/  ",
+                    "homepage": null,
                     "id": 17723261,
                     "language": "R",
+                    "license": null,
                     "last_commit": "2024-09-13T02:56:13Z",
+                    "open_issues": 4,
                     "owner": "cran",
                     "repo": "pcalg",
-                    "stars": 35
+                    "stars": 35,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:40:46.224Z"
                 }
@@ -1511,12 +2126,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "DAGs with NO TEARS: Continuous Optimization for Structure Learning",
+                    "homepage": "https://arxiv.org/abs/1803.01422",
                     "id": 153203876,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-05-26T16:18:38Z",
+                    "open_issues": 8,
                     "owner": "xunzheng",
                     "repo": "notears",
-                    "stars": 687
+                    "stars": 687,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:40:46.224Z"
                 },
@@ -1527,12 +2147,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 182496434,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2021-12-20T08:30:40Z",
+                    "open_issues": 24,
                     "owner": "fishmoon1234",
                     "repo": "DAG-GNN",
-                    "stars": 329
+                    "stars": 329,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:40:46.224Z"
                 },
@@ -1543,12 +2168,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "DAGs with NO TEARS: Continuous Optimization for Structure Learning",
+                    "homepage": "https://arxiv.org/abs/1803.01422",
                     "id": 153203876,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-05-26T16:18:38Z",
+                    "open_issues": 8,
                     "owner": "xunzheng",
                     "repo": "notears",
-                    "stars": 687
+                    "stars": 687,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:40:46.224Z"
                 },
@@ -1559,12 +2189,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Amortized Inference for Causal Structure Learning, NeurIPS 2022",
+                    "homepage": "https://arxiv.org/abs/2205.12934",
                     "id": 549583700,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-02-11T08:02:39Z",
+                    "open_issues": 0,
                     "owner": "larslorch",
                     "repo": "avici",
-                    "stars": 79
+                    "stars": 79,
+                    "topics": [
+                      "amortized-inference",
+                      "causal-discovery",
+                      "causal-inference",
+                      "causality",
+                      "structure-learning",
+                      "transformers",
+                      "variational-inference"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:40:46.224Z"
                 }
@@ -1582,12 +2225,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 70608250,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2017-02-16T14:28:27Z",
+                    "open_issues": 4,
                     "owner": "taku-y",
                     "repo": "bmlingam",
-                    "stars": 16
+                    "stars": 16,
+                    "topics": [
+                      "causal-inference"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:40:46.224Z"
                 },
@@ -1598,12 +2248,29 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Package for causal inference in graphs and in the pairwise settings. Tools for graph structure recovery and dependencies are included.",
+                    "homepage": "https://fentechsolutions.github.io/CausalDiscoveryToolbox/html/index.html",
                     "id": 92927706,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-10-13T07:40:06Z",
+                    "open_issues": 74,
                     "owner": "FenTechSolutions",
                     "repo": "CausalDiscoveryToolbox",
-                    "stars": 1236
+                    "stars": 1236,
+                    "topics": [
+                      "algorithm",
+                      "causal-discovery",
+                      "causal-inference",
+                      "causal-models",
+                      "causality",
+                      "graph",
+                      "graph-structure-recovery",
+                      "inference",
+                      "machine-learning",
+                      "python",
+                      "toolbox"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:40:46.224Z"
                 },
@@ -1614,12 +2281,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Distinguishing Cause from Effect Using Quantiles:  Bivariate Quantile Causal Discovery",
+                    "homepage": null,
                     "id": 275874008,
                     "language": "R",
+                    "license": null,
                     "last_commit": "2020-06-29T16:57:23Z",
+                    "open_issues": 0,
                     "owner": "tagas",
                     "repo": "bQCD",
-                    "stars": 5
+                    "stars": 5,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:40:46.224Z"
                 },
@@ -1630,12 +2302,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Replication code for the article \"Learning Functional Causal Models with Generative Neural Networks\"",
+                    "homepage": null,
                     "id": 101337015,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2019-07-03T10:08:43Z",
+                    "open_issues": 2,
                     "owner": "GoudetOlivier",
                     "repo": "CGNN",
-                    "stars": 100
+                    "stars": 100,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:40:46.224Z"
                 }
@@ -1653,12 +2330,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The Randomized Conditional Independence Test (RCIT) and the Randomized conditional Correlation Test (RCoT)",
+                    "homepage": null,
                     "id": 81013341,
                     "language": "R",
+                    "license": null,
                     "last_commit": "2019-05-23T17:21:21Z",
+                    "open_issues": 3,
                     "owner": "ericstrobl",
                     "repo": "RCIT",
-                    "stars": 32
+                    "stars": 32,
+                    "topics": [
+                      "causal-inference",
+                      "conditional-independence"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:40:46.224Z"
                 }
@@ -1676,12 +2361,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 268642777,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2020-07-27T21:15:00Z",
+                    "open_issues": 0,
                     "owner": "big-data-lab-umbc",
                     "repo": "ensemble_causality_learning",
-                    "stars": 10
+                    "stars": 10,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:40:46.224Z"
                 }
@@ -1704,12 +2394,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Temporal Causal Discovery Framework (PyTorch): discovering causal relationships between time series",
+                "homepage": null,
                 "id": 163581816,
                 "language": "Jupyter Notebook",
+                "license": "GPL-3.0",
                 "last_commit": "2021-10-01T14:30:02Z",
+                "open_issues": 2,
                 "owner": "M-Nauta",
                 "repo": "TCDF",
-                "stars": 539
+                "stars": 539,
+                "topics": [
+                  "causality",
+                  "cnn",
+                  "forecasting",
+                  "machine-learning",
+                  "neural-networks",
+                  "prediction",
+                  "python",
+                  "pytorch",
+                  "timeseries"
+                ]
               },
               "first_seen": "2026-08-29T00:40:46.224Z"
             }
@@ -1723,15 +2428,31 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:40:46.224Z",
+    "last_updated": "2026-08-29T04:20:30.987Z",
     "original_repository_info": {
       "archived": false,
+      "description": "An index of algorithms for learning causality with data",
+      "homepage": null,
       "id": 149516975,
       "language": null,
+      "license": "MIT",
       "last_commit": "2025-01-22T11:00:42Z",
+      "open_issues": 2,
       "owner": "rguo12",
       "repo": "awesome-causality-algorithms",
-      "stars": 3279
+      "stars": 3279,
+      "topics": [
+        "awesome",
+        "baselines",
+        "causal-inference",
+        "causality",
+        "causality-algorithms",
+        "causality-analysis",
+        "learning-to-rank",
+        "multilabel-classification",
+        "recommender-system",
+        "unconfoundedness-assumption"
+      ]
     },
     "original_repository_sha": "411ca24cf98eaaf7d3b17f8dba672355b7948a92",
     "enhanced_repository": "enhansome/enhansome-causality-algorithms",
