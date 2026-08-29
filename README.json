@@ -17,8 +17,9 @@
                 "last_commit": "2026-07-11T02:45:31Z",
                 "owner": "py-why",
                 "repo": "causal-learn",
-                "stars": 1679
-              }
+                "stars": 1680
+              },
+              "first_seen": "2026-08-29T00:40:46.224Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "huawei-noah",
                 "repo": "trustworthyAI",
                 "stars": 1133
-              }
+              },
+              "first_seen": "2026-08-29T00:40:46.224Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "DataCanvasIO",
                 "repo": "YLearn",
                 "stars": 434
-              }
+              },
+              "first_seen": "2026-08-29T00:40:46.224Z"
             }
           ],
           "description": null,
@@ -66,11 +69,12 @@
                 "archived": false,
                 "id": 135584946,
                 "language": "Python",
-                "last_commit": "2026-08-27T23:57:29Z",
+                "last_commit": "2026-08-28T23:12:29Z",
                 "owner": "py-why",
                 "repo": "dowhy",
-                "stars": 8285
-              }
+                "stars": 8290
+              },
+              "first_seen": "2026-08-29T00:40:46.224Z"
             },
             {
               "node_type": "item",
@@ -84,8 +88,9 @@
                 "last_commit": "2026-08-20T15:25:36Z",
                 "owner": "uber",
                 "repo": "causalml",
-                "stars": 5974
-              }
+                "stars": 5976
+              },
+              "first_seen": "2026-08-29T00:40:46.224Z"
             },
             {
               "node_type": "item",
@@ -100,7 +105,8 @@
                 "owner": "inovex",
                 "repo": "justcause",
                 "stars": 141
-              }
+              },
+              "first_seen": "2026-08-29T00:40:46.224Z"
             },
             {
               "node_type": "item",
@@ -115,7 +121,8 @@
                 "owner": "socialfoundations",
                 "repo": "whynot",
                 "stars": 428
-              }
+              },
+              "first_seen": "2026-08-29T00:40:46.224Z"
             },
             {
               "node_type": "item",
@@ -129,8 +136,9 @@
                 "last_commit": "2023-10-21T16:05:46Z",
                 "owner": "maks-sh",
                 "repo": "scikit-uplift",
-                "stars": 813
-              }
+                "stars": 814
+              },
+              "first_seen": "2026-08-29T00:40:46.224Z"
             }
           ],
           "description": null,
@@ -152,7 +160,8 @@
                 "owner": "felixleopoldo",
                 "repo": "benchpress",
                 "stars": 84
-              }
+              },
+              "first_seen": "2026-08-29T00:40:46.224Z"
             },
             {
               "node_type": "item",
@@ -166,8 +175,9 @@
                 "last_commit": "2026-07-11T02:45:31Z",
                 "owner": "py-why",
                 "repo": "causal-learn",
-                "stars": 1679
-              }
+                "stars": 1680
+              },
+              "first_seen": "2026-08-29T00:40:46.224Z"
             },
             {
               "node_type": "item",
@@ -182,7 +192,8 @@
                 "owner": "bd2kccd",
                 "repo": "r-causal",
                 "stars": 36
-              }
+              },
+              "first_seen": "2026-08-29T00:40:46.224Z"
             },
             {
               "node_type": "item",
@@ -197,7 +208,8 @@
                 "owner": "uhlerlab",
                 "repo": "causaldag",
                 "stars": 163
-              }
+              },
+              "first_seen": "2026-08-29T00:40:46.224Z"
             },
             {
               "node_type": "item",
@@ -212,7 +224,8 @@
                 "owner": "diviyank",
                 "repo": "CausalDiscoveryToolbox",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-29T00:40:46.224Z"
             }
           ],
           "description": null,
@@ -234,7 +247,8 @@
                 "owner": "chaos-genius",
                 "repo": "chaos_genius",
                 "stars": 778
-              }
+              },
+              "first_seen": "2026-08-29T00:40:46.224Z"
             }
           ],
           "description": null,
@@ -266,7 +280,8 @@
                         "owner": "oddrose",
                         "repo": "cfrnet",
                         "stars": 25
-                      }
+                      },
+                      "first_seen": "2026-08-29T00:40:46.224Z"
                     },
                     {
                       "node_type": "item",
@@ -281,7 +296,8 @@
                         "owner": "oddrose",
                         "repo": "cfrnet",
                         "stars": 25
-                      }
+                      },
+                      "first_seen": "2026-08-29T00:40:46.224Z"
                     },
                     {
                       "node_type": "item",
@@ -296,7 +312,8 @@
                         "owner": "AMLab-Amsterdam",
                         "repo": "CEVAE",
                         "stars": 368
-                      }
+                      },
+                      "first_seen": "2026-08-29T00:40:46.224Z"
                     },
                     {
                       "node_type": "item",
@@ -311,7 +328,8 @@
                         "owner": "claudiashi57",
                         "repo": "dragonnet",
                         "stars": 298
-                      }
+                      },
+                      "first_seen": "2026-08-29T00:40:46.224Z"
                     },
                     {
                       "node_type": "item",
@@ -326,7 +344,8 @@
                         "owner": "Osier-Yi",
                         "repo": "SITE",
                         "stars": 59
-                      }
+                      },
+                      "first_seen": "2026-08-29T00:40:46.224Z"
                     },
                     {
                       "node_type": "item",
@@ -341,7 +360,8 @@
                         "owner": "jsyoon0823",
                         "repo": "GANITE",
                         "stars": 72
-                      }
+                      },
+                      "first_seen": "2026-08-29T00:40:46.224Z"
                     },
                     {
                       "node_type": "item",
@@ -356,7 +376,8 @@
                         "owner": "d909b",
                         "repo": "perfect_match",
                         "stars": 132
-                      }
+                      },
+                      "first_seen": "2026-08-29T00:40:46.224Z"
                     },
                     {
                       "node_type": "item",
@@ -371,7 +392,8 @@
                         "owner": "SUwonglab",
                         "repo": "CausalEGM",
                         "stars": 75
-                      }
+                      },
+                      "first_seen": "2026-08-29T00:40:46.224Z"
                     }
                   ],
                   "description": null,
@@ -393,7 +415,8 @@
                         "owner": "akelleh",
                         "repo": "causality",
                         "stars": 1081
-                      }
+                      },
+                      "first_seen": "2026-08-29T00:40:46.224Z"
                     }
                   ],
                   "description": null,
@@ -415,7 +438,8 @@
                         "owner": "grf-labs",
                         "repo": "grf",
                         "stars": 1106
-                      }
+                      },
+                      "first_seen": "2026-08-29T00:40:46.224Z"
                     },
                     {
                       "node_type": "item",
@@ -430,7 +454,8 @@
                         "owner": "grf-labs",
                         "repo": "grf",
                         "stars": 1106
-                      }
+                      },
+                      "first_seen": "2026-08-29T00:40:46.224Z"
                     },
                     {
                       "node_type": "item",
@@ -445,7 +470,8 @@
                         "owner": "JakeColtman",
                         "repo": "bartpy",
                         "stars": 232
-                      }
+                      },
+                      "first_seen": "2026-08-29T00:40:46.224Z"
                     }
                   ],
                   "description": null,
@@ -467,7 +493,8 @@
                         "owner": "soerenkuenzel",
                         "repo": "hte",
                         "stars": 35
-                      }
+                      },
+                      "first_seen": "2026-08-29T00:40:46.224Z"
                     }
                   ],
                   "description": null,
@@ -494,7 +521,8 @@
                     "owner": "cran",
                     "repo": "ipw",
                     "stars": 0
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:40:46.224Z"
                 },
                 {
                   "node_type": "item",
@@ -509,7 +537,8 @@
                     "owner": "gregridgeway",
                     "repo": "fastDR",
                     "stars": 7
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:40:46.224Z"
                 },
                 {
                   "node_type": "item",
@@ -524,7 +553,8 @@
                     "owner": "jantonelli111",
                     "repo": "DoublyRobustHD",
                     "stars": 27
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:40:46.224Z"
                 },
                 {
                   "node_type": "item",
@@ -539,7 +569,8 @@
                     "owner": "cran",
                     "repo": "ebal",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:40:46.224Z"
                 },
                 {
                   "node_type": "item",
@@ -554,7 +585,8 @@
                     "owner": "kosukeimai",
                     "repo": "CBPS",
                     "stars": 30
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:40:46.224Z"
                 },
                 {
                   "node_type": "item",
@@ -569,7 +601,8 @@
                     "owner": "swager",
                     "repo": "balanceHD",
                     "stars": 35
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:40:46.224Z"
                 }
               ],
               "description": null,
@@ -591,7 +624,8 @@
                     "owner": "jhartford",
                     "repo": "DeepIV",
                     "stars": 161
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:40:46.224Z"
                 }
               ],
               "description": null,
@@ -613,7 +647,8 @@
                     "owner": "ronikobrosly",
                     "repo": "causal-curve",
                     "stars": 284
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:40:46.224Z"
                 },
                 {
                   "node_type": "item",
@@ -628,7 +663,8 @@
                     "owner": "d909b",
                     "repo": "drnet",
                     "stars": 95
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:40:46.224Z"
                 }
               ],
               "description": null,
@@ -650,7 +686,8 @@
                     "owner": "JeanKaddour",
                     "repo": "SIN",
                     "stars": 42
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:40:46.224Z"
                 }
               ],
               "description": null,
@@ -672,7 +709,8 @@
                     "owner": "blei-lab",
                     "repo": "deconfounder_tutorial",
                     "stars": 87
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:40:46.224Z"
                 }
               ],
               "description": null,
@@ -694,7 +732,8 @@
                     "owner": "Ibotta",
                     "repo": "mr_uplift",
                     "stars": 71
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:40:46.224Z"
                 }
               ],
               "description": null,
@@ -723,7 +762,8 @@
                     "owner": "synth-inference",
                     "repo": "synthdid",
                     "stars": 312
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:40:46.224Z"
                 },
                 {
                   "node_type": "item",
@@ -738,7 +778,8 @@
                     "owner": "cran",
                     "repo": "bsts",
                     "stars": 34
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:40:46.224Z"
                 },
                 {
                   "node_type": "item",
@@ -753,7 +794,8 @@
                     "owner": "ioanabica",
                     "repo": "Time-Series-Deconfounder",
                     "stars": 52
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:40:46.224Z"
                 },
                 {
                   "node_type": "item",
@@ -768,7 +810,8 @@
                     "owner": "sjblim",
                     "repo": "rmsn_nips_2018",
                     "stars": 40
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:40:46.224Z"
                 },
                 {
                   "node_type": "item",
@@ -783,7 +826,8 @@
                     "owner": "joshuaschwab",
                     "repo": "ltmle",
                     "stars": 28
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:40:46.224Z"
                 },
                 {
                   "node_type": "item",
@@ -798,7 +842,8 @@
                     "owner": "Valentyn1997",
                     "repo": "CausalTransformer",
                     "stars": 194
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:40:46.224Z"
                 }
               ],
               "description": null,
@@ -820,7 +865,8 @@
                     "owner": "rguo12",
                     "repo": "network-deconfounder-wsdm20",
                     "stars": 78
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:40:46.224Z"
                 },
                 {
                   "node_type": "item",
@@ -835,7 +881,8 @@
                     "owner": "vveitch",
                     "repo": "causal-network-embeddings",
                     "stars": 56
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:40:46.224Z"
                 },
                 {
                   "node_type": "item",
@@ -850,7 +897,8 @@
                     "owner": "rguo12",
                     "repo": "CIKM18-LCVA",
                     "stars": 15
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:40:46.224Z"
                 },
                 {
                   "node_type": "item",
@@ -865,7 +913,8 @@
                     "owner": "KolaczykResearch",
                     "repo": "CausInfNoisyNet",
                     "stars": 0
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:40:46.224Z"
                 }
               ],
               "description": null,
@@ -898,7 +947,8 @@
                 "owner": "facebookresearch",
                 "repo": "DomainBed",
                 "stars": 1630
-              }
+              },
+              "first_seen": "2026-08-29T00:40:46.224Z"
             },
             {
               "node_type": "item",
@@ -913,7 +963,8 @@
                 "owner": "p-lambda",
                 "repo": "wilds",
                 "stars": 602
-              }
+              },
+              "first_seen": "2026-08-29T00:40:46.224Z"
             },
             {
               "node_type": "item",
@@ -928,7 +979,8 @@
                 "owner": "IBM",
                 "repo": "OoD",
                 "stars": 63
-              }
+              },
+              "first_seen": "2026-08-29T00:40:46.224Z"
             },
             {
               "node_type": "item",
@@ -943,7 +995,8 @@
                 "owner": "m-Just",
                 "repo": "OoD-Bench",
                 "stars": 45
-              }
+              },
+              "first_seen": "2026-08-29T00:40:46.224Z"
             },
             {
               "node_type": "item",
@@ -958,7 +1011,8 @@
                 "owner": "Google-Health",
                 "repo": "records-research",
                 "stars": 234
-              }
+              },
+              "first_seen": "2026-08-29T00:40:46.224Z"
             },
             {
               "children": [
@@ -975,7 +1029,8 @@
                     "owner": "LFhase",
                     "repo": "CIGA",
                     "stars": 123
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:40:46.224Z"
                 }
               ],
               "description": null,
@@ -1004,7 +1059,8 @@
                     "owner": "awarebayes",
                     "repo": "RecNN",
                     "stars": 587
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:40:46.224Z"
                 },
                 {
                   "node_type": "item",
@@ -1019,7 +1075,8 @@
                     "owner": "usaito",
                     "repo": "unbiased-implicit-rec-real",
                     "stars": 30
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:40:46.224Z"
                 },
                 {
                   "node_type": "item",
@@ -1034,7 +1091,8 @@
                     "owner": "ylongqi",
                     "repo": "unbiased-offline-recommender-evaluation",
                     "stars": 35
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:40:46.224Z"
                 }
               ],
               "description": null,
@@ -1056,7 +1114,8 @@
                     "owner": "yixinwang",
                     "repo": "causal-recsys-public",
                     "stars": 47
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:40:46.224Z"
                 }
               ],
               "description": null,
@@ -1078,7 +1137,8 @@
                     "owner": "criteo-research",
                     "repo": "CausE",
                     "stars": 248
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:40:46.224Z"
                 },
                 {
                   "node_type": "item",
@@ -1093,7 +1153,8 @@
                     "owner": "usaito",
                     "repo": "ijcai2022-adversarial-mf",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:40:46.224Z"
                 }
               ],
               "description": null,
@@ -1115,7 +1176,8 @@
                     "owner": "tsinghua-fib-lab",
                     "repo": "DICE",
                     "stars": 158
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:40:46.224Z"
                 }
               ],
               "description": null,
@@ -1142,7 +1204,8 @@
                 "owner": "HarrieO",
                 "repo": "2020topkunbiasedltr",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-29T00:40:46.224Z"
             },
             {
               "node_type": "item",
@@ -1157,7 +1220,8 @@
                 "owner": "edgeslab",
                 "repo": "heckman_rank",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T00:40:46.224Z"
             },
             {
               "node_type": "item",
@@ -1172,7 +1236,8 @@
                 "owner": "acbull",
                 "repo": "Unbiased_LambdaMart",
                 "stars": 225
-              }
+              },
+              "first_seen": "2026-08-29T00:40:46.224Z"
             },
             {
               "node_type": "item",
@@ -1187,7 +1252,8 @@
                 "owner": "QingyaoAi",
                 "repo": "Unbiased-Learning-to-Rank-with-Unbiased-Propensity-Estimation",
                 "stars": 89
-              }
+              },
+              "first_seen": "2026-08-29T00:40:46.224Z"
             }
           ],
           "description": null,
@@ -1209,7 +1275,8 @@
                 "owner": "CausalML",
                 "repo": "LatentConfounderBalancing",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-29T00:40:46.224Z"
             }
           ],
           "description": null,
@@ -1231,7 +1298,8 @@
                 "owner": "rpryzant",
                 "repo": "deconfounded-lexicon-induction",
                 "stars": 60
-              }
+              },
+              "first_seen": "2026-08-29T00:40:46.224Z"
             },
             {
               "node_type": "item",
@@ -1246,7 +1314,8 @@
                 "owner": "blei-lab",
                 "repo": "causal-text-embeddings",
                 "stars": 126
-              }
+              },
+              "first_seen": "2026-08-29T00:40:46.224Z"
             },
             {
               "node_type": "item",
@@ -1261,7 +1330,8 @@
                 "owner": "zachwooddoughty",
                 "repo": "emnlp2018-causal",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-29T00:40:46.224Z"
             }
           ],
           "description": null,
@@ -1283,7 +1353,8 @@
                 "owner": "microsoft",
                 "repo": "DICE",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-29T00:40:46.224Z"
             }
           ],
           "description": null,
@@ -1305,7 +1376,8 @@
                 "owner": "mkusner",
                 "repo": "counterfactual-fairness",
                 "stars": 56
-              }
+              },
+              "first_seen": "2026-08-29T00:40:46.224Z"
             },
             {
               "node_type": "item",
@@ -1320,7 +1392,8 @@
                 "owner": "yongkaiwu",
                 "repo": "Path-specific-Counterfactual-Fairness",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-29T00:40:46.224Z"
             },
             {
               "node_type": "item",
@@ -1335,7 +1408,8 @@
                 "owner": "SaiSakethAluru",
                 "repo": "Counterfactual-fairness",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-29T00:40:46.224Z"
             }
           ],
           "description": null,
@@ -1357,7 +1431,8 @@
                 "owner": "CausalRL",
                 "repo": "DRL",
                 "stars": 52
-              }
+              },
+              "first_seen": "2026-08-29T00:40:46.224Z"
             }
           ],
           "description": null,
@@ -1387,7 +1462,8 @@
                     "owner": "akelleh",
                     "repo": "causality",
                     "stars": 1081
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:40:46.224Z"
                 },
                 {
                   "node_type": "item",
@@ -1402,7 +1478,8 @@
                     "owner": "keiichishima",
                     "repo": "pcalg",
                     "stars": 97
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:40:46.224Z"
                 },
                 {
                   "node_type": "item",
@@ -1417,7 +1494,8 @@
                     "owner": "cran",
                     "repo": "pcalg",
                     "stars": 35
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:40:46.224Z"
                 }
               ],
               "description": null,
@@ -1438,8 +1516,9 @@
                     "last_commit": "2026-05-26T16:18:38Z",
                     "owner": "xunzheng",
                     "repo": "notears",
-                    "stars": 685
-                  }
+                    "stars": 687
+                  },
+                  "first_seen": "2026-08-29T00:40:46.224Z"
                 },
                 {
                   "node_type": "item",
@@ -1453,8 +1532,9 @@
                     "last_commit": "2021-12-20T08:30:40Z",
                     "owner": "fishmoon1234",
                     "repo": "DAG-GNN",
-                    "stars": 327
-                  }
+                    "stars": 329
+                  },
+                  "first_seen": "2026-08-29T00:40:46.224Z"
                 },
                 {
                   "node_type": "item",
@@ -1468,8 +1548,9 @@
                     "last_commit": "2026-05-26T16:18:38Z",
                     "owner": "xunzheng",
                     "repo": "notears",
-                    "stars": 685
-                  }
+                    "stars": 687
+                  },
+                  "first_seen": "2026-08-29T00:40:46.224Z"
                 },
                 {
                   "node_type": "item",
@@ -1484,7 +1565,8 @@
                     "owner": "larslorch",
                     "repo": "avici",
                     "stars": 79
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:40:46.224Z"
                 }
               ],
               "description": null,
@@ -1506,7 +1588,8 @@
                     "owner": "taku-y",
                     "repo": "bmlingam",
                     "stars": 16
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:40:46.224Z"
                 },
                 {
                   "node_type": "item",
@@ -1521,7 +1604,8 @@
                     "owner": "FenTechSolutions",
                     "repo": "CausalDiscoveryToolbox",
                     "stars": 1236
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:40:46.224Z"
                 },
                 {
                   "node_type": "item",
@@ -1536,7 +1620,8 @@
                     "owner": "tagas",
                     "repo": "bQCD",
                     "stars": 5
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:40:46.224Z"
                 },
                 {
                   "node_type": "item",
@@ -1551,7 +1636,8 @@
                     "owner": "GoudetOlivier",
                     "repo": "CGNN",
                     "stars": 100
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:40:46.224Z"
                 }
               ],
               "description": null,
@@ -1573,7 +1659,8 @@
                     "owner": "ericstrobl",
                     "repo": "RCIT",
                     "stars": 32
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:40:46.224Z"
                 }
               ],
               "description": null,
@@ -1595,7 +1682,8 @@
                     "owner": "big-data-lab-umbc",
                     "repo": "ensemble_causality_learning",
                     "stars": 10
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:40:46.224Z"
                 }
               ],
               "description": null,
@@ -1622,7 +1710,8 @@
                 "owner": "M-Nauta",
                 "repo": "TCDF",
                 "stars": 539
-              }
+              },
+              "first_seen": "2026-08-29T00:40:46.224Z"
             }
           ],
           "description": null,
@@ -1634,7 +1723,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T01:06:18.386Z",
+    "last_updated": "2026-08-29T00:40:46.224Z",
     "original_repository_info": {
       "archived": false,
       "id": 149516975,
