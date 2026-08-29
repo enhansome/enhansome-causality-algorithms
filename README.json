@@ -123,11 +123,11 @@
                 "id": 135584946,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-28T23:12:29Z",
-                "open_issues": 237,
+                "last_commit": "2026-08-29T17:15:44Z",
+                "open_issues": 240,
                 "owner": "py-why",
                 "repo": "dowhy",
-                "stars": 8290,
+                "stars": 8291,
                 "topics": [
                   "bayesian-networks",
                   "causal-inference",
@@ -160,7 +160,7 @@
                 "open_issues": 13,
                 "owner": "uber",
                 "repo": "causalml",
-                "stars": 5976,
+                "stars": 5978,
                 "topics": [
                   "causal-inference",
                   "incubation",
@@ -695,7 +695,7 @@
                         "open_issues": 69,
                         "owner": "grf-labs",
                         "repo": "grf",
-                        "stars": 1106,
+                        "stars": 1107,
                         "topics": [
                           "causal-forest",
                           "causal-inference",
@@ -723,7 +723,7 @@
                         "open_issues": 69,
                         "owner": "grf-labs",
                         "repo": "grf",
-                        "stars": 1106,
+                        "stars": 1107,
                         "topics": [
                           "causal-forest",
                           "causal-inference",
@@ -1532,7 +1532,7 @@
                     "open_issues": 1,
                     "owner": "awarebayes",
                     "repo": "RecNN",
-                    "stars": 587,
+                    "stars": 586,
                     "topics": [
                       "library",
                       "news-recommendation",
@@ -2257,7 +2257,7 @@
                     "open_issues": 74,
                     "owner": "FenTechSolutions",
                     "repo": "CausalDiscoveryToolbox",
-                    "stars": 1236,
+                    "stars": 1237,
                     "topics": [
                       "algorithm",
                       "causal-discovery",
@@ -2428,7 +2428,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:20:30.987Z",
+    "last_updated": "2026-08-29T19:29:44.590Z",
     "original_repository_info": {
       "archived": false,
       "description": "An index of algorithms for learning causality with data",
@@ -2440,7 +2440,7 @@
       "open_issues": 2,
       "owner": "rguo12",
       "repo": "awesome-causality-algorithms",
-      "stars": 3279,
+      "stars": 3280,
       "topics": [
         "awesome",
         "baselines",
