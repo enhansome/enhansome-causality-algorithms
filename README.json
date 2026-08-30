@@ -123,11 +123,11 @@
                 "id": 135584946,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-29T17:15:44Z",
-                "open_issues": 240,
+                "last_commit": "2026-08-30T17:12:16Z",
+                "open_issues": 236,
                 "owner": "py-why",
                 "repo": "dowhy",
-                "stars": 8291,
+                "stars": 8292,
                 "topics": [
                   "bayesian-networks",
                   "causal-inference",
@@ -2428,7 +2428,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T19:29:44.590Z",
+    "last_updated": "2026-08-30T19:25:28.650Z",
     "original_repository_info": {
       "archived": false,
       "description": "An index of algorithms for learning causality with data",
