@@ -18,7 +18,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-07-11T02:45:31Z",
-                "open_issues": 62,
+                "open_issues": 63,
                 "owner": "py-why",
                 "repo": "causal-learn",
                 "stars": 1680,
@@ -123,8 +123,8 @@
                 "id": 135584946,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-30T17:12:16Z",
-                "open_issues": 236,
+                "last_commit": "2026-08-31T19:28:24Z",
+                "open_issues": 234,
                 "owner": "py-why",
                 "repo": "dowhy",
                 "stars": 8292,
@@ -160,7 +160,7 @@
                 "open_issues": 13,
                 "owner": "uber",
                 "repo": "causalml",
-                "stars": 5978,
+                "stars": 5979,
                 "topics": [
                   "causal-inference",
                   "incubation",
@@ -299,7 +299,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-07-11T02:45:31Z",
-                "open_issues": 62,
+                "open_issues": 63,
                 "owner": "py-why",
                 "repo": "causal-learn",
                 "stars": 1680,
@@ -1381,7 +1381,7 @@
                 "open_issues": 7,
                 "owner": "facebookresearch",
                 "repo": "DomainBed",
-                "stars": 1630,
+                "stars": 1631,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:40:46.224Z"
@@ -2428,7 +2428,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T19:25:28.650Z",
+    "last_updated": "2026-08-31T21:36:57.285Z",
     "original_repository_info": {
       "archived": false,
       "description": "An index of algorithms for learning causality with data",
@@ -2440,7 +2440,7 @@
       "open_issues": 2,
       "owner": "rguo12",
       "repo": "awesome-causality-algorithms",
-      "stars": 3280,
+      "stars": 3281,
       "topics": [
         "awesome",
         "baselines",
