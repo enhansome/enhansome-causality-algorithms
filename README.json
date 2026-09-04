@@ -17,7 +17,7 @@
                 "id": 303161792,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-07-11T02:45:31Z",
+                "last_commit": "2026-09-04T16:50:44Z",
                 "open_issues": 63,
                 "owner": "py-why",
                 "repo": "causal-learn",
@@ -123,11 +123,11 @@
                 "id": 135584946,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-03T16:57:39Z",
-                "open_issues": 238,
+                "last_commit": "2026-09-04T17:04:54Z",
+                "open_issues": 240,
                 "owner": "py-why",
                 "repo": "dowhy",
-                "stars": 8298,
+                "stars": 8301,
                 "topics": [
                   "bayesian-networks",
                   "causal-inference",
@@ -157,10 +157,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-20T15:25:36Z",
-                "open_issues": 15,
+                "open_issues": 17,
                 "owner": "uber",
                 "repo": "causalml",
-                "stars": 5984,
+                "stars": 5987,
                 "topics": [
                   "causal-inference",
                   "incubation",
@@ -298,7 +298,7 @@
                 "id": 303161792,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-07-11T02:45:31Z",
+                "last_commit": "2026-09-04T16:50:44Z",
                 "open_issues": 63,
                 "owner": "py-why",
                 "repo": "causal-learn",
@@ -695,7 +695,7 @@
                         "open_issues": 69,
                         "owner": "grf-labs",
                         "repo": "grf",
-                        "stars": 1107,
+                        "stars": 1108,
                         "topics": [
                           "causal-forest",
                           "causal-inference",
@@ -723,7 +723,7 @@
                         "open_issues": 69,
                         "owner": "grf-labs",
                         "repo": "grf",
-                        "stars": 1107,
+                        "stars": 1108,
                         "topics": [
                           "causal-forest",
                           "causal-inference",
@@ -1931,7 +1931,7 @@
                 "open_issues": 4,
                 "owner": "microsoft",
                 "repo": "DICE",
-                "stars": 3,
+                "stars": 4,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:40:46.224Z"
@@ -2428,7 +2428,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T19:24:58.948Z",
+    "last_updated": "2026-09-04T19:06:57.172Z",
     "original_repository_info": {
       "archived": false,
       "description": "An index of algorithms for learning causality with data",
