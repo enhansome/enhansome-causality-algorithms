@@ -123,8 +123,8 @@
                 "id": 135584946,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-06T16:09:57Z",
-                "open_issues": 245,
+                "last_commit": "2026-09-07T18:11:19Z",
+                "open_issues": 247,
                 "owner": "py-why",
                 "repo": "dowhy",
                 "stars": 8304,
@@ -160,7 +160,7 @@
                 "open_issues": 17,
                 "owner": "uber",
                 "repo": "causalml",
-                "stars": 5988,
+                "stars": 5990,
                 "topics": [
                   "causal-inference",
                   "incubation",
@@ -1805,7 +1805,7 @@
                 "open_issues": 4,
                 "owner": "QingyaoAi",
                 "repo": "Unbiased-Learning-to-Rank-with-Unbiased-Propensity-Estimation",
-                "stars": 89,
+                "stars": 88,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:40:46.224Z"
@@ -1882,7 +1882,7 @@
                 "open_issues": 3,
                 "owner": "blei-lab",
                 "repo": "causal-text-embeddings",
-                "stars": 126,
+                "stars": 125,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:40:46.224Z"
@@ -2428,7 +2428,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T18:36:53.496Z",
+    "last_updated": "2026-09-07T20:07:46.093Z",
     "original_repository_info": {
       "archived": false,
       "description": "An index of algorithms for learning causality with data",
@@ -2440,7 +2440,7 @@
       "open_issues": 2,
       "owner": "rguo12",
       "repo": "awesome-causality-algorithms",
-      "stars": 3282,
+      "stars": 3280,
       "topics": [
         "awesome",
         "baselines",
