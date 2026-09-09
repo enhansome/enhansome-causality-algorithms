@@ -123,11 +123,11 @@
                 "id": 135584946,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-08T17:10:10Z",
-                "open_issues": 250,
+                "last_commit": "2026-09-09T17:17:18Z",
+                "open_issues": 253,
                 "owner": "py-why",
                 "repo": "dowhy",
-                "stars": 8305,
+                "stars": 8307,
                 "topics": [
                   "bayesian-networks",
                   "causal-inference",
@@ -160,7 +160,7 @@
                 "open_issues": 17,
                 "owner": "uber",
                 "repo": "causalml",
-                "stars": 5991,
+                "stars": 5993,
                 "topics": [
                   "causal-inference",
                   "incubation",
@@ -266,7 +266,7 @@
                 "id": 234086215,
                 "language": "Python",
                 "license": "GPL-2.0",
-                "last_commit": "2026-06-21T06:35:03Z",
+                "last_commit": "2026-09-09T13:23:59Z",
                 "open_issues": 27,
                 "owner": "felixleopoldo",
                 "repo": "benchpress",
@@ -695,7 +695,7 @@
                         "open_issues": 69,
                         "owner": "grf-labs",
                         "repo": "grf",
-                        "stars": 1108,
+                        "stars": 1109,
                         "topics": [
                           "causal-forest",
                           "causal-inference",
@@ -723,7 +723,7 @@
                         "open_issues": 69,
                         "owner": "grf-labs",
                         "repo": "grf",
-                        "stars": 1108,
+                        "stars": 1109,
                         "topics": [
                           "causal-forest",
                           "causal-inference",
@@ -2135,7 +2135,7 @@
                     "open_issues": 8,
                     "owner": "xunzheng",
                     "repo": "notears",
-                    "stars": 687,
+                    "stars": 688,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:40:46.224Z"
@@ -2177,7 +2177,7 @@
                     "open_issues": 8,
                     "owner": "xunzheng",
                     "repo": "notears",
-                    "stars": 687,
+                    "stars": 688,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:40:46.224Z"
@@ -2428,7 +2428,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T19:33:54.347Z",
+    "last_updated": "2026-09-09T19:27:52.332Z",
     "original_repository_info": {
       "archived": false,
       "description": "An index of algorithms for learning causality with data",
