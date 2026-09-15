@@ -21,7 +21,7 @@
                 "open_issues": 64,
                 "owner": "py-why",
                 "repo": "causal-learn",
-                "stars": 1684,
+                "stars": 1685,
                 "topics": [
                   "causal",
                   "causal-discovery",
@@ -58,7 +58,7 @@
                 "open_issues": 22,
                 "owner": "huawei-noah",
                 "repo": "trustworthyAI",
-                "stars": 1136,
+                "stars": 1138,
                 "topics": [
                   "causal-discovery",
                   "causal-inference",
@@ -123,8 +123,8 @@
                 "id": 135584946,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-14T20:05:20Z",
-                "open_issues": 243,
+                "last_commit": "2026-09-15T17:24:26Z",
+                "open_issues": 239,
                 "owner": "py-why",
                 "repo": "dowhy",
                 "stars": 8318,
@@ -302,7 +302,7 @@
                 "open_issues": 64,
                 "owner": "py-why",
                 "repo": "causal-learn",
-                "stars": 1684,
+                "stars": 1685,
                 "topics": [
                   "causal",
                   "causal-discovery",
@@ -2135,7 +2135,7 @@
                     "open_issues": 8,
                     "owner": "xunzheng",
                     "repo": "notears",
-                    "stars": 690,
+                    "stars": 691,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:40:46.224Z"
@@ -2177,7 +2177,7 @@
                     "open_issues": 8,
                     "owner": "xunzheng",
                     "repo": "notears",
-                    "stars": 690,
+                    "stars": 691,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:40:46.224Z"
@@ -2198,7 +2198,7 @@
                     "open_issues": 0,
                     "owner": "larslorch",
                     "repo": "avici",
-                    "stars": 79,
+                    "stars": 80,
                     "topics": [
                       "amortized-inference",
                       "causal-discovery",
@@ -2428,7 +2428,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T20:30:45.209Z",
+    "last_updated": "2026-09-15T19:48:50.711Z",
     "original_repository_info": {
       "archived": false,
       "description": "An index of algorithms for learning causality with data",
@@ -2440,7 +2440,7 @@
       "open_issues": 2,
       "owner": "rguo12",
       "repo": "awesome-causality-algorithms",
-      "stars": 3281,
+      "stars": 3282,
       "topics": [
         "awesome",
         "baselines",
