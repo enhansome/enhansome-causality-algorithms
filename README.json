@@ -123,8 +123,8 @@
                 "id": 135584946,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-16T17:24:25Z",
-                "open_issues": 236,
+                "last_commit": "2026-09-17T17:24:24Z",
+                "open_issues": 235,
                 "owner": "py-why",
                 "repo": "dowhy",
                 "stars": 8317,
@@ -160,7 +160,7 @@
                 "open_issues": 21,
                 "owner": "uber",
                 "repo": "causalml",
-                "stars": 5999,
+                "stars": 6000,
                 "topics": [
                   "causal-inference",
                   "incubation",
@@ -695,7 +695,7 @@
                         "open_issues": 69,
                         "owner": "grf-labs",
                         "repo": "grf",
-                        "stars": 1109,
+                        "stars": 1110,
                         "topics": [
                           "causal-forest",
                           "causal-inference",
@@ -723,7 +723,7 @@
                         "open_issues": 69,
                         "owner": "grf-labs",
                         "repo": "grf",
-                        "stars": 1109,
+                        "stars": 1110,
                         "topics": [
                           "causal-forest",
                           "causal-inference",
@@ -1381,7 +1381,7 @@
                 "open_issues": 7,
                 "owner": "facebookresearch",
                 "repo": "DomainBed",
-                "stars": 1632,
+                "stars": 1631,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:40:46.224Z"
@@ -2428,7 +2428,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T19:40:54.823Z",
+    "last_updated": "2026-09-17T19:49:58.950Z",
     "original_repository_info": {
       "archived": false,
       "description": "An index of algorithms for learning causality with data",
