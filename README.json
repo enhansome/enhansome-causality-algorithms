@@ -21,7 +21,7 @@
                 "open_issues": 64,
                 "owner": "py-why",
                 "repo": "causal-learn",
-                "stars": 1685,
+                "stars": 1686,
                 "topics": [
                   "causal",
                   "causal-discovery",
@@ -123,11 +123,11 @@
                 "id": 135584946,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-19T16:09:52Z",
-                "open_issues": 228,
+                "last_commit": "2026-09-20T16:36:07Z",
+                "open_issues": 227,
                 "owner": "py-why",
                 "repo": "dowhy",
-                "stars": 8316,
+                "stars": 8319,
                 "topics": [
                   "bayesian-networks",
                   "causal-inference",
@@ -160,7 +160,7 @@
                 "open_issues": 21,
                 "owner": "uber",
                 "repo": "causalml",
-                "stars": 6000,
+                "stars": 6003,
                 "topics": [
                   "causal-inference",
                   "incubation",
@@ -266,7 +266,7 @@
                 "id": 234086215,
                 "language": "Python",
                 "license": "GPL-2.0",
-                "last_commit": "2026-09-09T13:23:59Z",
+                "last_commit": "2026-09-20T14:37:51Z",
                 "open_issues": 27,
                 "owner": "felixleopoldo",
                 "repo": "benchpress",
@@ -302,7 +302,7 @@
                 "open_issues": 64,
                 "owner": "py-why",
                 "repo": "causal-learn",
-                "stars": 1685,
+                "stars": 1686,
                 "topics": [
                   "causal",
                   "causal-discovery",
@@ -2428,7 +2428,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T18:50:53.708Z",
+    "last_updated": "2026-09-20T19:02:03.196Z",
     "original_repository_info": {
       "archived": false,
       "description": "An index of algorithms for learning causality with data",
