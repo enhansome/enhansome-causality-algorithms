@@ -21,7 +21,7 @@
                 "open_issues": 65,
                 "owner": "py-why",
                 "repo": "causal-learn",
-                "stars": 1688,
+                "stars": 1689,
                 "topics": [
                   "causal",
                   "causal-discovery",
@@ -123,11 +123,11 @@
                 "id": 135584946,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-22T17:24:43Z",
+                "last_commit": "2026-09-23T17:33:25Z",
                 "open_issues": 229,
                 "owner": "py-why",
                 "repo": "dowhy",
-                "stars": 8324,
+                "stars": 8326,
                 "topics": [
                   "bayesian-networks",
                   "causal-inference",
@@ -232,7 +232,7 @@
                 "open_issues": 40,
                 "owner": "maks-sh",
                 "repo": "scikit-uplift",
-                "stars": 816,
+                "stars": 817,
                 "topics": [
                   "causal-inference",
                   "causality",
@@ -302,7 +302,7 @@
                 "open_issues": 65,
                 "owner": "py-why",
                 "repo": "causal-learn",
-                "stars": 1688,
+                "stars": 1689,
                 "topics": [
                   "causal",
                   "causal-discovery",
@@ -2257,7 +2257,7 @@
                     "open_issues": 74,
                     "owner": "FenTechSolutions",
                     "repo": "CausalDiscoveryToolbox",
-                    "stars": 1239,
+                    "stars": 1240,
                     "topics": [
                       "algorithm",
                       "causal-discovery",
@@ -2428,7 +2428,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T19:52:09.520Z",
+    "last_updated": "2026-09-23T19:47:36.530Z",
     "original_repository_info": {
       "archived": false,
       "description": "An index of algorithms for learning causality with data",
