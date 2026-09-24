@@ -123,11 +123,11 @@
                 "id": 135584946,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-23T17:33:25Z",
-                "open_issues": 229,
+                "last_commit": "2026-09-24T17:38:15Z",
+                "open_issues": 230,
                 "owner": "py-why",
                 "repo": "dowhy",
-                "stars": 8326,
+                "stars": 8327,
                 "topics": [
                   "bayesian-networks",
                   "causal-inference",
@@ -160,7 +160,7 @@
                 "open_issues": 21,
                 "owner": "uber",
                 "repo": "causalml",
-                "stars": 6006,
+                "stars": 6008,
                 "topics": [
                   "causal-inference",
                   "incubation",
@@ -232,7 +232,7 @@
                 "open_issues": 40,
                 "owner": "maks-sh",
                 "repo": "scikit-uplift",
-                "stars": 817,
+                "stars": 818,
                 "topics": [
                   "causal-inference",
                   "causality",
@@ -606,7 +606,7 @@
                         "open_issues": 1,
                         "owner": "d909b",
                         "repo": "perfect_match",
-                        "stars": 132,
+                        "stars": 133,
                         "topics": [
                           "causal-inference",
                           "deep-learning",
@@ -632,7 +632,7 @@
                         "open_issues": 1,
                         "owner": "SUwonglab",
                         "repo": "CausalEGM",
-                        "stars": 75,
+                        "stars": 74,
                         "topics": [
                           "causal-inference",
                           "causal-machine-learning",
@@ -1133,7 +1133,7 @@
                     "open_issues": 59,
                     "owner": "synth-inference",
                     "repo": "synthdid",
-                    "stars": 311,
+                    "stars": 312,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:40:46.224Z"
@@ -2428,7 +2428,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T19:47:36.530Z",
+    "last_updated": "2026-09-24T20:06:08.596Z",
     "original_repository_info": {
       "archived": false,
       "description": "An index of algorithms for learning causality with data",
