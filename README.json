@@ -21,7 +21,7 @@
                 "open_issues": 65,
                 "owner": "py-why",
                 "repo": "causal-learn",
-                "stars": 1690,
+                "stars": 1692,
                 "topics": [
                   "causal",
                   "causal-discovery",
@@ -58,7 +58,7 @@
                 "open_issues": 22,
                 "owner": "huawei-noah",
                 "repo": "trustworthyAI",
-                "stars": 1142,
+                "stars": 1143,
                 "topics": [
                   "causal-discovery",
                   "causal-inference",
@@ -123,11 +123,11 @@
                 "id": 135584946,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-27T17:25:10Z",
+                "last_commit": "2026-09-28T21:29:29Z",
                 "open_issues": 234,
                 "owner": "py-why",
                 "repo": "dowhy",
-                "stars": 8331,
+                "stars": 8332,
                 "topics": [
                   "bayesian-networks",
                   "causal-inference",
@@ -160,7 +160,7 @@
                 "open_issues": 21,
                 "owner": "uber",
                 "repo": "causalml",
-                "stars": 6009,
+                "stars": 6010,
                 "topics": [
                   "causal-inference",
                   "incubation",
@@ -302,7 +302,7 @@
                 "open_issues": 65,
                 "owner": "py-why",
                 "repo": "causal-learn",
-                "stars": 1690,
+                "stars": 1692,
                 "topics": [
                   "causal",
                   "causal-discovery",
@@ -1381,7 +1381,7 @@
                 "open_issues": 7,
                 "owner": "facebookresearch",
                 "repo": "DomainBed",
-                "stars": 1632,
+                "stars": 1631,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:40:46.224Z"
@@ -1645,7 +1645,7 @@
                     "open_issues": 4,
                     "owner": "criteo-research",
                     "repo": "CausE",
-                    "stars": 248,
+                    "stars": 249,
                     "topics": [
                       "causal-inference",
                       "causality",
@@ -2403,7 +2403,7 @@
                 "open_issues": 2,
                 "owner": "M-Nauta",
                 "repo": "TCDF",
-                "stars": 538,
+                "stars": 539,
                 "topics": [
                   "causality",
                   "cnn",
@@ -2428,7 +2428,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T19:51:46.513Z",
+    "last_updated": "2026-09-28T22:15:47.313Z",
     "original_repository_info": {
       "archived": false,
       "description": "An index of algorithms for learning causality with data",
@@ -2440,7 +2440,7 @@
       "open_issues": 2,
       "owner": "rguo12",
       "repo": "awesome-causality-algorithms",
-      "stars": 3286,
+      "stars": 3287,
       "topics": [
         "awesome",
         "baselines",
