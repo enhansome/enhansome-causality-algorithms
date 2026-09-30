@@ -123,7 +123,7 @@
                 "id": 135584946,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-29T18:47:59Z",
+                "last_commit": "2026-09-30T18:16:34Z",
                 "open_issues": 237,
                 "owner": "py-why",
                 "repo": "dowhy",
@@ -2428,7 +2428,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T21:00:26.491Z",
+    "last_updated": "2026-09-30T20:58:34.410Z",
     "original_repository_info": {
       "archived": false,
       "description": "An index of algorithms for learning causality with data",
