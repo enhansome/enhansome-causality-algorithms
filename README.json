@@ -123,11 +123,11 @@
                 "id": 135584946,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-02T18:14:19Z",
-                "open_issues": 238,
+                "last_commit": "2026-10-03T16:48:57Z",
+                "open_issues": 235,
                 "owner": "py-why",
                 "repo": "dowhy",
-                "stars": 8334,
+                "stars": 8335,
                 "topics": [
                   "bayesian-networks",
                   "causal-inference",
@@ -157,10 +157,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-20T15:25:36Z",
-                "open_issues": 21,
+                "open_issues": 22,
                 "owner": "uber",
                 "repo": "causalml",
-                "stars": 6013,
+                "stars": 6014,
                 "topics": [
                   "causal-inference",
                   "incubation",
@@ -2428,7 +2428,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:36:45.417Z",
+    "last_updated": "2026-10-03T19:23:02.121Z",
     "original_repository_info": {
       "archived": false,
       "description": "An index of algorithms for learning causality with data",
