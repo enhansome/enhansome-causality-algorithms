@@ -695,7 +695,7 @@
                         "open_issues": 69,
                         "owner": "grf-labs",
                         "repo": "grf",
-                        "stars": 1114,
+                        "stars": 1115,
                         "topics": [
                           "causal-forest",
                           "causal-inference",
@@ -723,7 +723,7 @@
                         "open_issues": 69,
                         "owner": "grf-labs",
                         "repo": "grf",
-                        "stars": 1114,
+                        "stars": 1115,
                         "topics": [
                           "causal-forest",
                           "causal-inference",
@@ -1967,7 +1967,7 @@
             {
               "node_type": "item",
               "title": "Wu, Yongkai, Lu Zhang, Xintao Wu, and Hanghang Tong. \"Pc-fairness: A unified framework for measuring causality-based fairness.\" Advances in Neural Information Processing Systems 32 (2019).",
-              "description": "code",
+              "description": "yongkaiwu/Path-specific-Counterfactual-Fairness",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1988,7 +1988,7 @@
             {
               "node_type": "item",
               "title": "Garg, Sahaj, Vincent Perot, Nicole Limtiaco, Ankur Taly, Ed H. Chi, and Alex Beutel. \"Counterfactual fairness in text classification through robustness.\" In Proceedings of the 2019 AAAI/ACM Conference on AI, Ethics, and Society, pp. 219-226. 2019.",
-              "description": "code",
+              "description": "SaiSakethAluru/Counterfactual-fairness",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2428,7 +2428,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T20:56:50.118Z",
+    "last_updated": "2026-10-03T04:36:45.417Z",
     "original_repository_info": {
       "archived": false,
       "description": "An index of algorithms for learning causality with data",
