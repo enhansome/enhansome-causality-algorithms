@@ -18,10 +18,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-04T16:50:44Z",
-                "open_issues": 65,
+                "open_issues": 67,
                 "owner": "py-why",
                 "repo": "causal-learn",
-                "stars": 1694,
+                "stars": 1695,
                 "topics": [
                   "causal",
                   "causal-discovery",
@@ -123,11 +123,11 @@
                 "id": 135584946,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-04T17:11:54Z",
+                "last_commit": "2026-10-05T21:24:53Z",
                 "open_issues": 235,
                 "owner": "py-why",
                 "repo": "dowhy",
-                "stars": 8335,
+                "stars": 8337,
                 "topics": [
                   "bayesian-networks",
                   "causal-inference",
@@ -156,11 +156,11 @@
                 "id": 195914972,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-04T01:44:37Z",
-                "open_issues": 12,
+                "last_commit": "2026-10-05T13:33:52Z",
+                "open_issues": 10,
                 "owner": "uber",
                 "repo": "causalml",
-                "stars": 6017,
+                "stars": 6016,
                 "topics": [
                   "causal-inference",
                   "incubation",
@@ -232,7 +232,7 @@
                 "open_issues": 40,
                 "owner": "maks-sh",
                 "repo": "scikit-uplift",
-                "stars": 818,
+                "stars": 817,
                 "topics": [
                   "causal-inference",
                   "causality",
@@ -299,10 +299,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-04T16:50:44Z",
-                "open_issues": 65,
+                "open_issues": 67,
                 "owner": "py-why",
                 "repo": "causal-learn",
-                "stars": 1694,
+                "stars": 1695,
                 "topics": [
                   "causal",
                   "causal-discovery",
@@ -1532,7 +1532,7 @@
                     "open_issues": 1,
                     "owner": "awarebayes",
                     "repo": "RecNN",
-                    "stars": 586,
+                    "stars": 585,
                     "topics": [
                       "library",
                       "news-recommendation",
@@ -2428,7 +2428,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T19:47:19.696Z",
+    "last_updated": "2026-10-05T22:53:46.299Z",
     "original_repository_info": {
       "archived": false,
       "description": "An index of algorithms for learning causality with data",
