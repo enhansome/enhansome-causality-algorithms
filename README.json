@@ -123,7 +123,7 @@
                 "id": 135584946,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-06T06:56:24Z",
+                "last_commit": "2026-10-06T18:42:49Z",
                 "open_issues": 232,
                 "owner": "py-why",
                 "repo": "dowhy",
@@ -160,7 +160,7 @@
                 "open_issues": 10,
                 "owner": "uber",
                 "repo": "causalml",
-                "stars": 6017,
+                "stars": 6018,
                 "topics": [
                   "causal-inference",
                   "incubation",
@@ -2428,7 +2428,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:51:03.386Z",
+    "last_updated": "2026-10-06T21:12:27.435Z",
     "original_repository_info": {
       "archived": false,
       "description": "An index of algorithms for learning causality with data",
@@ -2437,10 +2437,10 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2025-01-22T11:00:42Z",
-      "open_issues": 2,
+      "open_issues": 3,
       "owner": "rguo12",
       "repo": "awesome-causality-algorithms",
-      "stars": 3289,
+      "stars": 3290,
       "topics": [
         "awesome",
         "baselines",
