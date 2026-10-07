@@ -18,7 +18,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-04T16:50:44Z",
-                "open_issues": 67,
+                "open_issues": 69,
                 "owner": "py-why",
                 "repo": "causal-learn",
                 "stars": 1695,
@@ -55,7 +55,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-21T11:39:25Z",
-                "open_issues": 22,
+                "open_issues": 23,
                 "owner": "huawei-noah",
                 "repo": "trustworthyAI",
                 "stars": 1145,
@@ -123,11 +123,11 @@
                 "id": 135584946,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-06T18:42:49Z",
-                "open_issues": 232,
+                "last_commit": "2026-10-07T21:12:13Z",
+                "open_issues": 234,
                 "owner": "py-why",
                 "repo": "dowhy",
-                "stars": 8338,
+                "stars": 8339,
                 "topics": [
                   "bayesian-networks",
                   "causal-inference",
@@ -160,7 +160,7 @@
                 "open_issues": 10,
                 "owner": "uber",
                 "repo": "causalml",
-                "stars": 6018,
+                "stars": 6019,
                 "topics": [
                   "causal-inference",
                   "incubation",
@@ -266,7 +266,7 @@
                 "id": 234086215,
                 "language": "Python",
                 "license": "GPL-2.0",
-                "last_commit": "2026-09-27T04:05:39Z",
+                "last_commit": "2026-10-07T01:34:50Z",
                 "open_issues": 27,
                 "owner": "felixleopoldo",
                 "repo": "benchpress",
@@ -299,7 +299,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-04T16:50:44Z",
-                "open_issues": 67,
+                "open_issues": 69,
                 "owner": "py-why",
                 "repo": "causal-learn",
                 "stars": 1695,
@@ -397,6 +397,48 @@
                 "topics": []
               },
               "first_seen": "2026-08-29T00:40:46.224Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Causal Chambers",
+              "description": "juangamella/causal-chamber",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Public dataset repository for the Causal Chamber Project",
+                "homepage": "https://causalchamber.ai",
+                "id": 787962478,
+                "language": "Python",
+                "license": "CC-BY-4.0",
+                "last_commit": "2026-10-03T10:52:44Z",
+                "open_issues": 1,
+                "owner": "juangamella",
+                "repo": "causal-chamber",
+                "stars": 69,
+                "topics": []
+              },
+              "first_seen": "2026-10-07T21:32:19.792Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Python",
+              "description": "juangamella/causal-chamber-package",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Code repository for the Python package causalchamber",
+                "homepage": null,
+                "id": 939384441,
+                "language": "Jupyter Notebook",
+                "license": "MIT",
+                "last_commit": "2026-04-20T13:52:00Z",
+                "open_issues": 0,
+                "owner": "juangamella",
+                "repo": "causal-chamber-package",
+                "stars": 14,
+                "topics": []
+              },
+              "first_seen": "2026-10-07T21:32:19.792Z"
             }
           ],
           "description": null,
@@ -695,7 +737,7 @@
                         "open_issues": 69,
                         "owner": "grf-labs",
                         "repo": "grf",
-                        "stars": 1115,
+                        "stars": 1114,
                         "topics": [
                           "causal-forest",
                           "causal-inference",
@@ -723,7 +765,7 @@
                         "open_issues": 69,
                         "owner": "grf-labs",
                         "repo": "grf",
-                        "stars": 1115,
+                        "stars": 1114,
                         "topics": [
                           "causal-forest",
                           "causal-inference",
@@ -922,7 +964,7 @@
                     "language": "R",
                     "license": "GPL-3.0",
                     "last_commit": "2021-07-29T09:00:24Z",
-                    "open_issues": 0,
+                    "open_issues": 1,
                     "owner": "swager",
                     "repo": "balanceHD",
                     "stars": 35,
@@ -953,7 +995,7 @@
                     "open_issues": 6,
                     "owner": "jhartford",
                     "repo": "DeepIV",
-                    "stars": 161,
+                    "stars": 160,
                     "topics": [
                       "causal-inference",
                       "deep-learning",
@@ -1130,7 +1172,7 @@
                     "language": "R",
                     "license": "BSD-3-Clause",
                     "last_commit": "2024-01-15T20:39:02Z",
-                    "open_issues": 59,
+                    "open_issues": 60,
                     "owner": "synth-inference",
                     "repo": "synthdid",
                     "stars": 313,
@@ -2428,7 +2470,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T21:12:27.435Z",
+    "last_updated": "2026-10-07T21:32:19.792Z",
     "original_repository_info": {
       "archived": false,
       "description": "An index of algorithms for learning causality with data",
@@ -2436,8 +2478,8 @@
       "id": 149516975,
       "language": null,
       "license": "MIT",
-      "last_commit": "2025-01-22T11:00:42Z",
-      "open_issues": 3,
+      "last_commit": "2026-10-07T03:54:44Z",
+      "open_issues": 2,
       "owner": "rguo12",
       "repo": "awesome-causality-algorithms",
       "stars": 3290,
@@ -2454,7 +2496,7 @@
         "unconfoundedness-assumption"
       ]
     },
-    "original_repository_sha": "411ca24cf98eaaf7d3b17f8dba672355b7948a92",
+    "original_repository_sha": "280dde9aeffde7f66b572cd36f652fe26191a9fb",
     "enhanced_repository": "enhansome/enhansome-causality-algorithms",
     "enhanced_repository_description": null,
     "title": "awesome-causality-algorithms with stars"
