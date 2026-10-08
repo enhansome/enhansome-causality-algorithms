@@ -123,8 +123,8 @@
                 "id": 135584946,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-07T21:12:13Z",
-                "open_issues": 234,
+                "last_commit": "2026-10-08T19:07:58Z",
+                "open_issues": 237,
                 "owner": "py-why",
                 "repo": "dowhy",
                 "stars": 8339,
@@ -232,7 +232,7 @@
                 "open_issues": 40,
                 "owner": "maks-sh",
                 "repo": "scikit-uplift",
-                "stars": 817,
+                "stars": 818,
                 "topics": [
                   "causal-inference",
                   "causality",
@@ -737,7 +737,7 @@
                         "open_issues": 69,
                         "owner": "grf-labs",
                         "repo": "grf",
-                        "stars": 1114,
+                        "stars": 1115,
                         "topics": [
                           "causal-forest",
                           "causal-inference",
@@ -765,7 +765,7 @@
                         "open_issues": 69,
                         "owner": "grf-labs",
                         "repo": "grf",
-                        "stars": 1114,
+                        "stars": 1115,
                         "topics": [
                           "causal-forest",
                           "causal-inference",
@@ -1574,7 +1574,7 @@
                     "open_issues": 1,
                     "owner": "awarebayes",
                     "repo": "RecNN",
-                    "stars": 586,
+                    "stars": 587,
                     "topics": [
                       "library",
                       "news-recommendation",
@@ -1973,7 +1973,7 @@
                 "open_issues": 4,
                 "owner": "microsoft",
                 "repo": "DICE",
-                "stars": 4,
+                "stars": 3,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:40:46.224Z"
@@ -2299,7 +2299,7 @@
                     "open_issues": 74,
                     "owner": "FenTechSolutions",
                     "repo": "CausalDiscoveryToolbox",
-                    "stars": 1243,
+                    "stars": 1242,
                     "topics": [
                       "algorithm",
                       "causal-discovery",
@@ -2445,7 +2445,7 @@
                 "open_issues": 2,
                 "owner": "M-Nauta",
                 "repo": "TCDF",
-                "stars": 539,
+                "stars": 541,
                 "topics": [
                   "causality",
                   "cnn",
@@ -2470,7 +2470,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T21:32:19.792Z",
+    "last_updated": "2026-10-08T21:28:40.463Z",
     "original_repository_info": {
       "archived": false,
       "description": "An index of algorithms for learning causality with data",
@@ -2482,7 +2482,7 @@
       "open_issues": 2,
       "owner": "rguo12",
       "repo": "awesome-causality-algorithms",
-      "stars": 3290,
+      "stars": 3289,
       "topics": [
         "awesome",
         "baselines",
