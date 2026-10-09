@@ -123,8 +123,8 @@
                 "id": 135584946,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-08T19:07:58Z",
-                "open_issues": 237,
+                "last_commit": "2026-10-09T18:36:36Z",
+                "open_issues": 238,
                 "owner": "py-why",
                 "repo": "dowhy",
                 "stars": 8339,
@@ -157,10 +157,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-05T13:33:52Z",
-                "open_issues": 10,
+                "open_issues": 11,
                 "owner": "uber",
                 "repo": "causalml",
-                "stars": 6019,
+                "stars": 6020,
                 "topics": [
                   "causal-inference",
                   "incubation",
@@ -266,8 +266,8 @@
                 "id": 234086215,
                 "language": "Python",
                 "license": "GPL-2.0",
-                "last_commit": "2026-10-07T01:34:50Z",
-                "open_issues": 27,
+                "last_commit": "2026-10-09T09:57:02Z",
+                "open_issues": 28,
                 "owner": "felixleopoldo",
                 "repo": "benchpress",
                 "stars": 84,
@@ -737,7 +737,7 @@
                         "open_issues": 69,
                         "owner": "grf-labs",
                         "repo": "grf",
-                        "stars": 1115,
+                        "stars": 1116,
                         "topics": [
                           "causal-forest",
                           "causal-inference",
@@ -765,7 +765,7 @@
                         "open_issues": 69,
                         "owner": "grf-labs",
                         "repo": "grf",
-                        "stars": 1115,
+                        "stars": 1116,
                         "topics": [
                           "causal-forest",
                           "causal-inference",
@@ -1175,7 +1175,7 @@
                     "open_issues": 60,
                     "owner": "synth-inference",
                     "repo": "synthdid",
-                    "stars": 313,
+                    "stars": 314,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:40:46.224Z"
@@ -2470,7 +2470,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T21:28:40.463Z",
+    "last_updated": "2026-10-09T21:13:36.454Z",
     "original_repository_info": {
       "archived": false,
       "description": "An index of algorithms for learning causality with data",
@@ -2482,7 +2482,7 @@
       "open_issues": 2,
       "owner": "rguo12",
       "repo": "awesome-causality-algorithms",
-      "stars": 3289,
+      "stars": 3290,
       "topics": [
         "awesome",
         "baselines",
