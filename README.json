@@ -18,7 +18,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-04T16:50:44Z",
-                "open_issues": 69,
+                "open_issues": 70,
                 "owner": "py-why",
                 "repo": "causal-learn",
                 "stars": 1696,
@@ -58,7 +58,7 @@
                 "open_issues": 23,
                 "owner": "huawei-noah",
                 "repo": "trustworthyAI",
-                "stars": 1146,
+                "stars": 1147,
                 "topics": [
                   "causal-discovery",
                   "causal-inference",
@@ -123,11 +123,11 @@
                 "id": 135584946,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-11T17:52:35Z",
-                "open_issues": 235,
+                "last_commit": "2026-10-12T21:53:26Z",
+                "open_issues": 239,
                 "owner": "py-why",
                 "repo": "dowhy",
-                "stars": 8348,
+                "stars": 8350,
                 "topics": [
                   "bayesian-networks",
                   "causal-inference",
@@ -156,8 +156,8 @@
                 "id": 195914972,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-11T17:59:14Z",
-                "open_issues": 12,
+                "last_commit": "2026-10-12T15:51:25Z",
+                "open_issues": 10,
                 "owner": "uber",
                 "repo": "causalml",
                 "stars": 6021,
@@ -299,7 +299,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-04T16:50:44Z",
-                "open_issues": 69,
+                "open_issues": 70,
                 "owner": "py-why",
                 "repo": "causal-learn",
                 "stars": 1696,
@@ -414,7 +414,7 @@
                 "open_issues": 1,
                 "owner": "juangamella",
                 "repo": "causal-chamber",
-                "stars": 70,
+                "stars": 71,
                 "topics": []
               },
               "first_seen": "2026-10-07T21:32:19.792Z"
@@ -2470,7 +2470,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T20:32:45.232Z",
+    "last_updated": "2026-10-12T23:11:56.911Z",
     "original_repository_info": {
       "archived": false,
       "description": "An index of algorithms for learning causality with data",
