@@ -21,7 +21,7 @@
                 "open_issues": 70,
                 "owner": "py-why",
                 "repo": "causal-learn",
-                "stars": 1696,
+                "stars": 1697,
                 "topics": [
                   "causal",
                   "causal-discovery",
@@ -123,11 +123,11 @@
                 "id": 135584946,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-13T19:37:59Z",
-                "open_issues": 235,
+                "last_commit": "2026-10-14T19:06:27Z",
+                "open_issues": 234,
                 "owner": "py-why",
                 "repo": "dowhy",
-                "stars": 8353,
+                "stars": 8358,
                 "topics": [
                   "bayesian-networks",
                   "causal-inference",
@@ -160,7 +160,7 @@
                 "open_issues": 11,
                 "owner": "uber",
                 "repo": "causalml",
-                "stars": 6023,
+                "stars": 6025,
                 "topics": [
                   "causal-inference",
                   "incubation",
@@ -302,7 +302,7 @@
                 "open_issues": 70,
                 "owner": "py-why",
                 "repo": "causal-learn",
-                "stars": 1696,
+                "stars": 1697,
                 "topics": [
                   "causal",
                   "causal-discovery",
@@ -1444,7 +1444,7 @@
                 "open_issues": 19,
                 "owner": "p-lambda",
                 "repo": "wilds",
-                "stars": 602,
+                "stars": 603,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:40:46.224Z"
@@ -2299,7 +2299,7 @@
                     "open_issues": 74,
                     "owner": "FenTechSolutions",
                     "repo": "CausalDiscoveryToolbox",
-                    "stars": 1242,
+                    "stars": 1243,
                     "topics": [
                       "algorithm",
                       "causal-discovery",
@@ -2470,7 +2470,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T21:30:55.785Z",
+    "last_updated": "2026-10-14T20:18:56.831Z",
     "original_repository_info": {
       "archived": false,
       "description": "An index of algorithms for learning causality with data",
