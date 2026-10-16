@@ -123,8 +123,8 @@
                 "id": 135584946,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-15T17:28:58Z",
-                "open_issues": 228,
+                "last_commit": "2026-10-16T17:02:53Z",
+                "open_issues": 227,
                 "owner": "py-why",
                 "repo": "dowhy",
                 "stars": 8359,
@@ -157,10 +157,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-12T15:51:25Z",
-                "open_issues": 11,
+                "open_issues": 12,
                 "owner": "uber",
                 "repo": "causalml",
-                "stars": 6026,
+                "stars": 6027,
                 "topics": [
                   "causal-inference",
                   "incubation",
@@ -229,7 +229,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2023-10-21T16:05:46Z",
-                "open_issues": 40,
+                "open_issues": 41,
                 "owner": "maks-sh",
                 "repo": "scikit-uplift",
                 "stars": 818,
@@ -270,7 +270,7 @@
                 "open_issues": 28,
                 "owner": "felixleopoldo",
                 "repo": "benchpress",
-                "stars": 84,
+                "stars": 85,
                 "topics": [
                   "bayesian-networks",
                   "benchmarking",
@@ -431,7 +431,7 @@
                 "id": 939384441,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-04-20T13:52:00Z",
+                "last_commit": "2026-10-16T17:02:19Z",
                 "open_issues": 0,
                 "owner": "juangamella",
                 "repo": "causal-chamber-package",
@@ -1175,7 +1175,7 @@
                     "open_issues": 60,
                     "owner": "synth-inference",
                     "repo": "synthdid",
-                    "stars": 314,
+                    "stars": 315,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:40:46.224Z"
@@ -1423,7 +1423,7 @@
                 "open_issues": 7,
                 "owner": "facebookresearch",
                 "repo": "DomainBed",
-                "stars": 1632,
+                "stars": 1631,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:40:46.224Z"
@@ -2470,7 +2470,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T20:00:56.676Z",
+    "last_updated": "2026-10-16T19:41:16.655Z",
     "original_repository_info": {
       "archived": false,
       "description": "An index of algorithms for learning causality with data",
