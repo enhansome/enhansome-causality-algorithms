@@ -55,7 +55,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-21T11:39:25Z",
-                "open_issues": 23,
+                "open_issues": 24,
                 "owner": "huawei-noah",
                 "repo": "trustworthyAI",
                 "stars": 1147,
@@ -123,7 +123,7 @@
                 "id": 135584946,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-16T17:02:53Z",
+                "last_commit": "2026-10-17T16:02:10Z",
                 "open_issues": 227,
                 "owner": "py-why",
                 "repo": "dowhy",
@@ -431,7 +431,7 @@
                 "id": 939384441,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-10-16T17:02:19Z",
+                "last_commit": "2026-10-16T22:08:35Z",
                 "open_issues": 0,
                 "owner": "juangamella",
                 "repo": "causal-chamber-package",
@@ -1027,7 +1027,7 @@
                     "open_issues": 4,
                     "owner": "ronikobrosly",
                     "repo": "causal-curve",
-                    "stars": 284,
+                    "stars": 285,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:40:46.224Z"
@@ -2470,7 +2470,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T19:41:16.655Z",
+    "last_updated": "2026-10-17T18:47:53.241Z",
     "original_repository_info": {
       "archived": false,
       "description": "An index of algorithms for learning causality with data",
