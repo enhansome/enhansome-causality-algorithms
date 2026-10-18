@@ -123,8 +123,8 @@
                 "id": 135584946,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-17T16:02:10Z",
-                "open_issues": 227,
+                "last_commit": "2026-10-18T16:14:40Z",
+                "open_issues": 219,
                 "owner": "py-why",
                 "repo": "dowhy",
                 "stars": 8359,
@@ -1423,7 +1423,7 @@
                 "open_issues": 7,
                 "owner": "facebookresearch",
                 "repo": "DomainBed",
-                "stars": 1631,
+                "stars": 1630,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:40:46.224Z"
@@ -2470,7 +2470,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T18:47:53.241Z",
+    "last_updated": "2026-10-18T18:53:04.820Z",
     "original_repository_info": {
       "archived": false,
       "description": "An index of algorithms for learning causality with data",
