@@ -18,10 +18,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-04T16:50:44Z",
-                "open_issues": 71,
+                "open_issues": 72,
                 "owner": "py-why",
                 "repo": "causal-learn",
-                "stars": 1699,
+                "stars": 1700,
                 "topics": [
                   "causal",
                   "causal-discovery",
@@ -58,7 +58,7 @@
                 "open_issues": 24,
                 "owner": "huawei-noah",
                 "repo": "trustworthyAI",
-                "stars": 1147,
+                "stars": 1148,
                 "topics": [
                   "causal-discovery",
                   "causal-inference",
@@ -123,11 +123,11 @@
                 "id": 135584946,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-21T17:44:03Z",
-                "open_issues": 217,
+                "last_commit": "2026-10-22T19:10:05Z",
+                "open_issues": 218,
                 "owner": "py-why",
                 "repo": "dowhy",
-                "stars": 8366,
+                "stars": 8369,
                 "topics": [
                   "bayesian-networks",
                   "causal-inference",
@@ -160,7 +160,7 @@
                 "open_issues": 12,
                 "owner": "uber",
                 "repo": "causalml",
-                "stars": 6030,
+                "stars": 6032,
                 "topics": [
                   "causal-inference",
                   "incubation",
@@ -299,10 +299,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-04T16:50:44Z",
-                "open_issues": 71,
+                "open_issues": 72,
                 "owner": "py-why",
                 "repo": "causal-learn",
-                "stars": 1699,
+                "stars": 1700,
                 "topics": [
                   "causal",
                   "causal-discovery",
@@ -1255,7 +1255,7 @@
                     "id": 9894073,
                     "language": "R",
                     "license": null,
-                    "last_commit": "2026-06-03T16:34:57Z",
+                    "last_commit": "2026-10-22T17:48:26Z",
                     "open_issues": 11,
                     "owner": "joshuaschwab",
                     "repo": "ltmle",
@@ -2470,7 +2470,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T20:20:30.261Z",
+    "last_updated": "2026-10-22T20:16:37.281Z",
     "original_repository_info": {
       "archived": false,
       "description": "An index of algorithms for learning causality with data",
@@ -2482,7 +2482,7 @@
       "open_issues": 2,
       "owner": "rguo12",
       "repo": "awesome-causality-algorithms",
-      "stars": 3293,
+      "stars": 3294,
       "topics": [
         "awesome",
         "baselines",
