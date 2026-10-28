@@ -21,7 +21,7 @@
                 "open_issues": 73,
                 "owner": "py-why",
                 "repo": "causal-learn",
-                "stars": 1704,
+                "stars": 1705,
                 "topics": [
                   "causal",
                   "causal-discovery",
@@ -58,7 +58,7 @@
                 "open_issues": 24,
                 "owner": "huawei-noah",
                 "repo": "trustworthyAI",
-                "stars": 1153,
+                "stars": 1152,
                 "topics": [
                   "causal-discovery",
                   "causal-inference",
@@ -76,7 +76,7 @@
             {
               "node_type": "item",
               "title": "YLearn",
-              "description": "Python Python package for causal discovery，causal effect identification/estimation, counterfactual inference，policy learning，etc.",
+              "description": "Python Python package for causal discovery, causal effect identification/estimation, counterfactual inference, policy learning, etc.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -123,11 +123,11 @@
                 "id": 135584946,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-27T19:33:59Z",
-                "open_issues": 209,
+                "last_commit": "2026-10-28T18:58:14Z",
+                "open_issues": 207,
                 "owner": "py-why",
                 "repo": "dowhy",
-                "stars": 8376,
+                "stars": 8378,
                 "topics": [
                   "bayesian-networks",
                   "causal-inference",
@@ -146,8 +146,36 @@
             },
             {
               "node_type": "item",
+              "title": "EconML",
+              "description": "Causal Inference and Machine Learning in Practice with EconML and CausalML KDD 2021 Python Python package that applies the power of machine learning techniques to estimate individualized causal responses from observational or experimental data.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "ALICE (Automated Learning and Intelligence for Causation and Economics) is a Microsoft Research project aimed at applying Artificial Intelligence concepts to economic decision making. One of its  goals is to build a toolkit that combines state-of-the-art machine learning techniques with econometrics in order to bring automation to complex causal inference problems. To date, the ALICE Python SDK (econml) implements orthogonal machine learning algorithms such as the double machine learning work of Chernozhukov et al. This toolkit is designed to measure the causal effect of some treatment variable(s) t on an outcome variable y, controlling for a set of features x.",
+                "homepage": "https://www.microsoft.com/en-us/research/project/alice/",
+                "id": 131646318,
+                "language": "Jupyter Notebook",
+                "license": "NOASSERTION",
+                "last_commit": "2026-10-28T16:51:05Z",
+                "open_issues": 429,
+                "owner": "py-why",
+                "repo": "EconML",
+                "stars": 4830,
+                "topics": [
+                  "causal-inference",
+                  "causality",
+                  "econometrics",
+                  "economics",
+                  "machine-learning",
+                  "treatment-effects"
+                ]
+              },
+              "first_seen": "2026-10-28T21:17:59.926Z"
+            },
+            {
+              "node_type": "item",
               "title": "CausalML",
-              "description": "Causalml: Python package for causal machine learning arxiv Python Uplift modeling and causal inference with machine learning algorithms",
+              "description": "Causalml: Python package for causal machine learning arXiv Python Uplift modeling and causal inference with machine learning algorithms",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -157,7 +185,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-12T15:51:25Z",
-                "open_issues": 12,
+                "open_issues": 14,
                 "owner": "uber",
                 "repo": "causalml",
                 "stars": 6035,
@@ -229,7 +257,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2023-10-21T16:05:46Z",
-                "open_issues": 41,
+                "open_issues": 42,
                 "owner": "maks-sh",
                 "repo": "scikit-uplift",
                 "stars": 819,
@@ -246,6 +274,62 @@
                 ]
               },
               "first_seen": "2026-08-29T00:40:46.224Z"
+            },
+            {
+              "node_type": "item",
+              "title": "DoubleML",
+              "description": "Double/debiased machine learning for treatment and structural parameters Econometrics Journal 2018 Python Double machine learning framework for causal parameters; also available in R.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "DoubleML - Double Machine Learning in Python",
+                "homepage": "https://docs.doubleml.org",
+                "id": 294121258,
+                "language": "Python",
+                "license": "BSD-3-Clause",
+                "last_commit": "2026-10-28T07:07:11Z",
+                "open_issues": 25,
+                "owner": "DoubleML",
+                "repo": "doubleml-for-py",
+                "stars": 795,
+                "topics": [
+                  "causal-inference",
+                  "data-science",
+                  "double-machine-learning",
+                  "econometrics",
+                  "machine-learning",
+                  "python",
+                  "scikit-learn",
+                  "statistics"
+                ]
+              },
+              "first_seen": "2026-10-28T21:17:59.926Z"
+            },
+            {
+              "node_type": "item",
+              "title": "CausalPy",
+              "description": "NA NA Python Bayesian and quasi-experimental causal inference (synthetic control, DiD, RDD, IV) built on PyMC.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A Python package for causal inference in quasi-experimental settings",
+                "homepage": "https://causalpy.readthedocs.io",
+                "id": 539537904,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-10-27T08:12:40Z",
+                "open_issues": 167,
+                "owner": "pymc-labs",
+                "repo": "CausalPy",
+                "stars": 1209,
+                "topics": [
+                  "causal-inference",
+                  "pymc",
+                  "quasi-experimental",
+                  "quasi-experiments"
+                ]
+              },
+              "first_seen": "2026-10-28T21:17:59.926Z"
             }
           ],
           "description": null,
@@ -257,7 +341,7 @@
             {
               "node_type": "item",
               "title": "Bench Press",
-              "description": "Benchpress: a scalable and versatile workflow for benchmarking structure learning algorithms for graphical models Code Reproducible and scalable execution and benchmarks of 41 structure learning algorithms supporting multiple language",
+              "description": "Benchpress: a scalable and versatile workflow for benchmarking structure learning algorithms for graphical models — Rios et al. arXiv 2021 Code Reproducible and scalable execution and benchmarks of 41 structure learning algorithms supporting multiple language",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -270,7 +354,7 @@
                 "open_issues": 28,
                 "owner": "felixleopoldo",
                 "repo": "benchpress",
-                "stars": 85,
+                "stars": 86,
                 "topics": [
                   "bayesian-networks",
                   "benchmarking",
@@ -289,7 +373,7 @@
             {
               "node_type": "item",
               "title": "causal-learn",
-              "description": "Causal-learn: Causal Discovery in Python Python Causal Discovery, Causal Representation Learning, Statistical Tests.",
+              "description": "Causal-learn: Causal Discovery in Python — Zheng et al. JMLR 2024 Python Causal Discovery, Causal Representation Learning, Statistical Tests.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -302,7 +386,7 @@
                 "open_issues": 73,
                 "owner": "py-why",
                 "repo": "causal-learn",
-                "stars": 1704,
+                "stars": 1705,
                 "topics": [
                   "causal",
                   "causal-discovery",
@@ -326,7 +410,28 @@
             {
               "node_type": "item",
               "title": "TETRAD R/Java",
-              "description": "TETRAD-A Toolbox FOR CAUSAL DISCOVERY R/Java Causal Discovery Toolbox from CMU",
+              "description": "cmu-phil/tetrad",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Repository for the Tetrad Project, www.phil.cmu.edu/tetrad.",
+                "homepage": null,
+                "id": 45061433,
+                "language": "Java",
+                "license": "GPL-3.0",
+                "last_commit": "2026-10-28T16:15:51Z",
+                "open_issues": 4,
+                "owner": "cmu-phil",
+                "repo": "tetrad",
+                "stars": 447,
+                "topics": []
+              },
+              "first_seen": "2026-10-28T21:17:59.926Z"
+            },
+            {
+              "node_type": "item",
+              "title": "R",
+              "description": "/Java",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -353,7 +458,7 @@
             {
               "node_type": "item",
               "title": "Causaldag",
-              "description": "NA code Python package for the creation, manipulation, and learning of Causal DAGs",
+              "description": "NA NA Code Python package for the creation, manipulation, and learning of Causal DAGs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -379,8 +484,38 @@
             },
             {
               "node_type": "item",
+              "title": "CausalNex",
+              "description": "NA NA Python A toolkit for causal reasoning with Bayesian Networks.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A Python library that helps data scientists to infer causation rather than observing correlation.",
+                "homepage": "http://causalnex.readthedocs.io/",
+                "id": 227637473,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-31T18:46:43Z",
+                "open_issues": 35,
+                "owner": "mckinsey",
+                "repo": "causalnex",
+                "stars": 2492,
+                "topics": [
+                  "bayesian-inference",
+                  "bayesian-networks",
+                  "causal-inference",
+                  "causal-models",
+                  "causal-networks",
+                  "causalnex",
+                  "data-science",
+                  "machine-learning"
+                ]
+              },
+              "first_seen": "2026-10-28T21:17:59.926Z"
+            },
+            {
+              "node_type": "item",
               "title": "CausalDiscoveryToolbox",
-              "description": "Causal Discovery Toolbox: Uncover causal relationships in Python Python",
+              "description": "Causal Discovery Toolbox: Uncover causal relationships in Python — Kalainathan and Goudet arXiv 2019 Python",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -397,6 +532,142 @@
                 "topics": []
               },
               "first_seen": "2026-08-29T00:40:46.224Z"
+            },
+            {
+              "node_type": "item",
+              "title": "pgmpy",
+              "description": "NA NA Python Probabilistic graphical models, structure learning and causal inference.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Python Toolkit for Causal and Probabilistic Reasoning",
+                "homepage": "https://pgmpy.org/",
+                "id": 12968651,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-10-28T11:06:00Z",
+                "open_issues": 674,
+                "owner": "pgmpy",
+                "repo": "pgmpy",
+                "stars": 3364,
+                "topics": [
+                  "bayesian-networks",
+                  "causal-discovery",
+                  "causal-effect",
+                  "causal-identification",
+                  "causal-inference",
+                  "causal-models",
+                  "causal-prediction",
+                  "causal-validation",
+                  "graphical-models",
+                  "hacktoberfest",
+                  "mixed-data",
+                  "probabilistic-inference",
+                  "python",
+                  "simulation",
+                  "synthetic-data"
+                ]
+              },
+              "first_seen": "2026-10-28T21:17:59.926Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Tigramite",
+              "description": "NA NA Python Causal discovery and inference for time series (PCMCI and variants).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Tigramite is a python package for causal inference with a focus on time series data. The Tigramite documentation is at",
+                "homepage": "https://jakobrunge.github.io/tigramite/",
+                "id": 91324771,
+                "language": "Jupyter Notebook",
+                "license": "GPL-3.0",
+                "last_commit": "2026-01-14T22:41:36Z",
+                "open_issues": 20,
+                "owner": "jakobrunge",
+                "repo": "tigramite",
+                "stars": 1733,
+                "topics": []
+              },
+              "first_seen": "2026-10-28T21:17:59.926Z"
+            },
+            {
+              "node_type": "item",
+              "title": "DoDiscover",
+              "description": "NA NA Python PyWhy library for causal discovery, including with latent confounders.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[Experimental] Global causal discovery algorithms",
+                "homepage": "https://www.pywhy.org/dodiscover/",
+                "id": 520913047,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-10-19T19:14:56Z",
+                "open_issues": 60,
+                "owner": "py-why",
+                "repo": "dodiscover",
+                "stars": 116,
+                "topics": [
+                  "causal-inference",
+                  "causality",
+                  "graphs",
+                  "python",
+                  "structure-learning"
+                ]
+              },
+              "first_seen": "2026-10-28T21:17:59.926Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Causica",
+              "description": "NA NA Python Deep end-to-end causal inference (DECI) and related models from Microsoft.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 503315788,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-10-24T00:00:40Z",
+                "open_issues": 87,
+                "owner": "microsoft",
+                "repo": "causica",
+                "stars": 537,
+                "topics": []
+              },
+              "first_seen": "2026-10-28T21:17:59.926Z"
+            },
+            {
+              "node_type": "item",
+              "title": "LiNGAM",
+              "description": "NA NA Python Implementations of the LiNGAM family of non-Gaussian causal discovery methods.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Python package for causal discovery based on LiNGAM.",
+                "homepage": "https://sites.google.com/view/sshimizu06/lingam",
+                "id": 203718561,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-10-27T08:09:53Z",
+                "open_issues": 30,
+                "owner": "cdt15",
+                "repo": "lingam",
+                "stars": 509,
+                "topics": [
+                  "causal-discovery",
+                  "causal-inference",
+                  "causal-models",
+                  "causality",
+                  "causality-analysis",
+                  "lingam",
+                  "machine-learning",
+                  "python"
+                ]
+              },
+              "first_seen": "2026-10-28T21:17:59.926Z"
             },
             {
               "node_type": "item",
@@ -439,6 +710,39 @@
                 "topics": []
               },
               "first_seen": "2026-10-07T21:32:19.792Z"
+            },
+            {
+              "node_type": "item",
+              "title": "causal-automata",
+              "description": "NA NA Python A relatively fast, GPU-native causal discovery and DAG structure learning package in JAX/NumPy via synchronous cellular automata and a 1D topological elevation field.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A blazing-fast, JAX-accelerated Cellular Automaton engine for causal discovery and DAG structure learning.",
+                "homepage": null,
+                "id": 1420741072,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-10-26T04:33:22Z",
+                "open_issues": 0,
+                "owner": "kazuyamagiwa",
+                "repo": "causal-automata",
+                "stars": 1,
+                "topics": [
+                  "causal-discovery",
+                  "causal-graphs",
+                  "causal-inference",
+                  "causality",
+                  "cellular-automata",
+                  "dag",
+                  "gpu",
+                  "jax",
+                  "machine-learning",
+                  "python",
+                  "structure-learning"
+                ]
+              },
+              "first_seen": "2026-10-28T21:17:59.926Z"
             }
           ],
           "description": null,
@@ -450,7 +754,7 @@
             {
               "node_type": "item",
               "title": "Chaos Genius",
-              "description": "NA Python ML powered analytics engine for outlier/anomaly detection and root cause analysis.",
+              "description": "NA NA Python ML powered analytics engine for outlier/anomaly detection and root cause analysis.",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -492,7 +796,7 @@
           ],
           "description": null,
           "node_type": "group",
-          "title": "Rootcause Analysis"
+          "title": "Root Cause Analysis"
         }
       ],
       "title": "Toolboxes"
@@ -509,7 +813,7 @@
                     {
                       "node_type": "item",
                       "title": "TARNet, Counterfactual Regression",
-                      "description": "Estimating individual treatment effect: generalization bounds and algorithms ICML 2017 Python",
+                      "description": "Estimating individual treatment effect: generalization bounds and algorithms — Shalit et al. ICML 2017 Python",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -530,7 +834,7 @@
                     {
                       "node_type": "item",
                       "title": "BNN, BLR",
-                      "description": "Learning representations for counterfactual inference ICML 2016 Python",
+                      "description": "Learning representations for counterfactual inference — Johansson et al. ICML 2016 Python",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -551,7 +855,7 @@
                     {
                       "node_type": "item",
                       "title": "Causal Effect VAE",
-                      "description": "Causal effect inference with deep latent-variable models Neurips 2017 Python",
+                      "description": "Causal effect inference with deep latent-variable models — Louizos et al. NeurIPS 2017 Python",
                       "children": [],
                       "repo_info": {
                         "archived": true,
@@ -572,7 +876,7 @@
                     {
                       "node_type": "item",
                       "title": "Dragonnet",
-                      "description": "Adapting neural networks for the estimation of treatment effects. Neurips 2019 Python",
+                      "description": "Adapting neural networks for the estimation of treatment effects — Shi et al. NeurIPS 2019 Python",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -593,7 +897,7 @@
                     {
                       "node_type": "item",
                       "title": "Python",
-                      "description": "Representation Learning for Treatment Effect Estimation from Observational Data Neurips 2018",
+                      "description": "Representation Learning for Treatment Effect Estimation from Observational Data — Yao et al. NeurIPS 2018",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -614,7 +918,7 @@
                     {
                       "node_type": "item",
                       "title": "GANITE",
-                      "description": "GANITE: Estimation of Individualized Treatment Effects using Generative Adversarial Nets ICLR 2018 Python",
+                      "description": "GANITE: Estimation of Individualized Treatment Effects using Generative Adversarial Nets — Yoon et al. ICLR 2018 Python",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -635,7 +939,7 @@
                     {
                       "node_type": "item",
                       "title": "Perfect Match",
-                      "description": "Perfect match: A simple method for learning representations for counterfactual inference with neural networks arxiv Python",
+                      "description": "Perfect match: A simple method for learning representations for counterfactual inference with neural networks — Schwab et al. arXiv 2018 Python",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -661,7 +965,7 @@
                     {
                       "node_type": "item",
                       "title": "CausalEGM",
-                      "description": "CausalEGM: a general causal inference framework by encoding generative modeling arxiv Python",
+                      "description": "CausalEGM: a general causal inference framework by encoding generative modeling — Liu et al. arXiv 2022 Python",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -695,36 +999,8 @@
                   "children": [
                     {
                       "node_type": "item",
-                      "title": "Propensity Score Matching",
-                      "description": "Rosenbaum, Paul R., and Donald B. Rubin. \"The central role of the propensity score in observational studies for causal effects.\" Biometrika 70, no. 1 (1983): 41-55. Python",
-                      "children": [],
-                      "repo_info": {
-                        "archived": false,
-                        "description": "Tools for causal analysis",
-                        "homepage": null,
-                        "id": 36268293,
-                        "language": "Python",
-                        "license": "MIT",
-                        "last_commit": "2025-03-11T23:41:53Z",
-                        "open_issues": 13,
-                        "owner": "akelleh",
-                        "repo": "causality",
-                        "stars": 1082,
-                        "topics": []
-                      },
-                      "first_seen": "2026-08-29T00:40:46.224Z"
-                    }
-                  ],
-                  "description": null,
-                  "node_type": "group",
-                  "title": "Classic Methods"
-                },
-                {
-                  "children": [
-                    {
-                      "node_type": "item",
                       "title": "Causal Forest",
-                      "description": "Wager, Stefan, and Susan Athey. \"Estimation and inference of heterogeneous treatment effects using random forests.\" JASA (2017). code R, code Python",
+                      "description": "Estimation and inference of heterogeneous treatment effects using random forests — Wager and Athey JASA 2017 R, Python",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -752,7 +1028,7 @@
                     {
                       "node_type": "item",
                       "title": "Causal MARS, Causal Boosting, Pollinated Transformed Outcome Forests",
-                      "description": "S. Powers et al., “Some methods for heterogeneous treatment effect estimation in high-dimensions,” 2017. code R, code R",
+                      "description": "Some methods for heterogeneous treatment effect estimation in high-dimensions — Powers et al. arXiv 2017 R, R",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -780,7 +1056,7 @@
                     {
                       "node_type": "item",
                       "title": "Bayesian Additive Regression Trees (BART)",
-                      "description": "Hill, Jennifer L. \"Bayesian nonparametric modeling for causal inference.\" Journal of Computational and Graphical Statistics 20, no. 1 (2011): 217-240. Python",
+                      "description": "Bayesian nonparametric modeling for causal inference — Hill JCGS 2011 Python",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -808,7 +1084,7 @@
                     {
                       "node_type": "item",
                       "title": "X-learner",
-                      "description": "Künzel, Sören R., Jasjeet S. Sekhon, Peter J. Bickel, and Bin Yu. \"Metalearners for estimating heterogeneous treatment effects using machine learning.\" Proceedings of the National Academy of Sciences 116, no. 10 (2019): 4156-4165. code R, code R",
+                      "description": "Metalearners for estimating heterogeneous treatment effects using machine learning — Künzel et al. PNAS 2019 R, R",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -828,6 +1104,27 @@
                         ]
                       },
                       "first_seen": "2026-08-29T00:40:46.224Z"
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "R-learner",
+                      "description": "Quasi-oracle estimation of heterogeneous treatment effects — Nie and Wager Biometrika 2021 R",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "Quasi-Oracle Estimation of Heterogeneous Treatment Effects",
+                        "homepage": "https://arxiv.org/abs/1712.04912",
+                        "id": 132940140,
+                        "language": "R",
+                        "license": "GPL-3.0",
+                        "last_commit": "2021-04-10T02:56:48Z",
+                        "open_issues": 2,
+                        "owner": "xnie",
+                        "repo": "rlearner",
+                        "stars": 127,
+                        "topics": []
+                      },
+                      "first_seen": "2026-10-28T21:17:59.926Z"
                     }
                   ],
                   "description": null,
@@ -843,8 +1140,29 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "Propensity Score Matching",
+                  "description": "The central role of the propensity score in observational studies for causal effects — Rosenbaum and Rubin Biometrika 1983 Python",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Tools for causal analysis",
+                    "homepage": null,
+                    "id": 36268293,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2025-03-11T23:41:53Z",
+                    "open_issues": 13,
+                    "owner": "akelleh",
+                    "repo": "causality",
+                    "stars": 1082,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-29T00:40:46.224Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "Inverse Probability Reweighting",
-                  "description": "Rosenbaum, Paul R., and Donald B. Rubin. \"The central role of the propensity score in observational studies for causal effects.\" Biometrika 70, no. 1 (1983): 41-55. R",
+                  "description": "The central role of the propensity score in observational studies for causal effects — Rosenbaum and Rubin Biometrika 1983 R",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -865,7 +1183,7 @@
                 {
                   "node_type": "item",
                   "title": "Doubly Robust Estimation",
-                  "description": "Bang, Heejung, and James M. Robins. \"Doubly robust estimation in missing data and causal inference models.\" Biometrics 61, no. 4 (2005): 962-973. R",
+                  "description": "Doubly robust estimation in missing data and causal inference models — Bang and Robins Biometrics 2005 R",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -891,7 +1209,7 @@
                 {
                   "node_type": "item",
                   "title": "Doubly Robust Estimation for High Dimensional Data",
-                  "description": "Antonelli, Joseph, Matthew Cefalu, Nathan Palmer, and Denis Agniel. \"Doubly robust matching estimators for high dimensional confounding adjustment.\" Biometrics (2016). R",
+                  "description": "Doubly robust matching estimators for high dimensional confounding adjustment — Antonelli et al. Biometrics 2016 R",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -912,7 +1230,7 @@
                 {
                   "node_type": "item",
                   "title": "Entropy Balancing",
-                  "description": "Hainmueller, Jens. \"Entropy balancing for causal effects: A multivariate reweighting method to produce balanced samples in observational studies.\" Political Analysis 20, no. 1 (2012): 25-46. R",
+                  "description": "Entropy balancing for causal effects: A multivariate reweighting method to produce balanced samples in observational studies — Hainmueller Political Analysis 2012 R",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -933,7 +1251,7 @@
                 {
                   "node_type": "item",
                   "title": "CBPS(Covariate Balancing Propensity Score)",
-                  "description": "Imai, Kosuke, and Marc Ratkovic. \"Covariate balancing propensity score.\" Journal of the Royal Statistical Society: Series B (Statistical Methodology) 76, no. 1 (2014): 243-263. R",
+                  "description": "Covariate balancing propensity score — Imai and Ratkovic JRSS-B 2014 R",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -954,7 +1272,7 @@
                 {
                   "node_type": "item",
                   "title": "Approximate Residual Balancing",
-                  "description": "Athey, Susan, Guido W. Imbens, and Stefan Wager. \"Approximate residual balancing: debiased inference of average treatment effects in high dimensions.\" Journal of the Royal Statistical Society: Series B (Statistical Methodology) 80, no. 4 (2018): 597-623. R",
+                  "description": "Approximate residual balancing: debiased inference of average treatment effects in high dimensions — Athey et al. JRSS-B 2018 R",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -982,7 +1300,7 @@
                 {
                   "node_type": "item",
                   "title": "DeepIV",
-                  "description": "Hartford, Jason, Greg Lewis, Kevin Leyton-Brown, and Matt Taddy. \"Deep iv: A flexible approach for counterfactual prediction.\" In International Conference on Machine Learning, pp. 1414-1423. 2017. Python",
+                  "description": "Deep iv: A flexible approach for counterfactual prediction — Hartford et al. ICML 2017 Python",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1014,7 +1332,7 @@
                 {
                   "node_type": "item",
                   "title": "Causal Dose-Response Curves / Causal Curves",
-                  "description": "Kobrosly, R. W., (2020). causal-curve: A Python Causal Inference Package to Estimate Causal Dose-Response Curves. Journal of Open Source Software, 5(52), 2523, https://doi.org/10.21105/joss.02523 Python",
+                  "description": "causal-curve: A Python Causal Inference Package to Estimate Causal Dose-Response Curves — Kobrosly JOSS 2020 Python",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1035,7 +1353,7 @@
                 {
                   "node_type": "item",
                   "title": "Dose response networks (DRNets)",
-                  "description": "Schwab, Patrick, Lorenz Linhardt, Stefan Bauer, Joachim M. Buhmann, and Walter Karlen. \"Learning Counterfactual Representations for Estimating Individual Dose-Response Curves.\" arXiv preprint arXiv:1902.00981 (2019). Python",
+                  "description": "Learning Counterfactual Representations for Estimating Individual Dose-Response Curves — Schwab et al. arXiv 2019 Python",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1061,14 +1379,14 @@
               ],
               "description": null,
               "node_type": "group",
-              "title": "Does-Response Curve (Continuous Treatment)"
+              "title": "Dose-Response Curve (Continuous Treatment)"
             },
             {
               "children": [
                 {
                   "node_type": "item",
                   "title": "Causal Effect Inference for Structured Treatments",
-                  "description": "Jean Kaddour, Qi Liu, Yuchen Zhu, Matt J. Kusner, Ricardo Silva. \"Causal Effect Inference for Structured Treatments\", In NeurIPS 2021. Python",
+                  "description": "Causal Effect Inference for Structured Treatments — Kaddour et al. NeurIPS 2021 Python",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1099,7 +1417,7 @@
                 {
                   "node_type": "item",
                   "title": "Deconfounder",
-                  "description": "Wang, Yixin, and David M. Blei. \"The blessings of multiple causes.\" arXiv preprint arXiv:1805.06826 (2018). Python",
+                  "description": "The blessings of multiple causes — Wang and Blei arXiv 2018 Python",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1127,7 +1445,7 @@
                 {
                   "node_type": "item",
                   "title": "Multiple Responses in Uplift Models",
-                  "description": "Weiss, Sam. Estimating and Visualizing Business Tradeoffs in Uplift Models Python",
+                  "description": "Estimating and Visualizing Business Tradeoffs in Uplift Models — Weiss Blog Python",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -1149,6 +1467,116 @@
               "description": null,
               "node_type": "group",
               "title": "Multiple Outcomes"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Staggered Difference-in-Differences",
+                  "description": "Difference-in-differences with multiple time periods — Callaway and Sant'Anna J. Econometrics 2021 R",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Difference in Differences with Multiple Periods, website: https://bcallaway11.github.io/did",
+                    "homepage": null,
+                    "id": 121292542,
+                    "language": "R",
+                    "license": null,
+                    "last_commit": "2026-10-27T04:14:47Z",
+                    "open_issues": 7,
+                    "owner": "bcallaway11",
+                    "repo": "did",
+                    "stars": 424,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-28T21:17:59.926Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Regression Discontinuity (rdrobust)",
+                  "description": "Robust nonparametric confidence intervals for regression-discontinuity designs — Calonico et al. Econometrica 2014 R/Python/Stata",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Robust Local Polynomial Methods for RD Designs",
+                    "homepage": "https://rdpackages.github.io",
+                    "id": 285824538,
+                    "language": "R",
+                    "license": "NOASSERTION",
+                    "last_commit": "2026-10-24T11:58:00Z",
+                    "open_issues": 0,
+                    "owner": "rdpackages",
+                    "repo": "rdrobust",
+                    "stars": 99,
+                    "topics": [
+                      "causal-inference",
+                      "program-evaluation",
+                      "regression-discontinuity-designs",
+                      "treatment-effects"
+                    ]
+                  },
+                  "first_seen": "2026-10-28T21:17:59.926Z"
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Difference-in-Differences / Regression Discontinuity"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "mediation",
+                  "description": "A general approach to causal mediation analysis — Imai et al. Psychological Methods 2010 R",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "R package mediation",
+                    "homepage": null,
+                    "id": 84774059,
+                    "language": "R",
+                    "license": null,
+                    "last_commit": "2026-10-05T01:15:33Z",
+                    "open_issues": 52,
+                    "owner": "kosukeimai",
+                    "repo": "mediation",
+                    "stars": 75,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-28T21:17:59.926Z"
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Mediation Analysis"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "sensemakr",
+                  "description": "Making sense of sensitivity: extending omitted variable bias — Cinelli and Hazlett JRSS-B 2020 R",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Suite of sensitivity analysis tools for OLS",
+                    "homepage": "https://carloscinelli.com/sensemakr/",
+                    "id": 97495468,
+                    "language": "R",
+                    "license": null,
+                    "last_commit": "2026-08-13T22:12:34Z",
+                    "open_issues": 10,
+                    "owner": "carloscinelli",
+                    "repo": "sensemakr",
+                    "stars": 100,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-28T21:17:59.926Z"
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Sensitivity Analysis"
             }
           ],
           "description": null,
@@ -1162,7 +1590,7 @@
                 {
                   "node_type": "item",
                   "title": "Synthetic Difference in Differences",
-                  "description": "Arkhangelsky, Dmitry, et al. Synthetic difference in differences. No. w25532. National Bureau of Economic Research, 2019. RPython",
+                  "description": "Synthetic difference in differences — Arkhangelsky et al. NBER 2019 RPython",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1183,7 +1611,7 @@
                 {
                   "node_type": "item",
                   "title": "Causal Impact",
-                  "description": "Brodersen, K. H., Gallusser, F., Koehler, J., Remy, N., & Scott, S. L. (2015). Inferring causal impact using Bayesian structural time-series models. The Annals of Applied Statistics, 9(1), 247–274. doi: 10.1214/14-AOAS788 RPython",
+                  "description": "Inferring causal impact using Bayesian structural time-series models — Brodersen et al. AoAS 2015 RPython",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1204,7 +1632,7 @@
                 {
                   "node_type": "item",
                   "title": "Time Series Deconfounder",
-                  "description": "Bica, Ioana, Ahmed M. Alaa, and Mihaela van der Schaar. \"Time Series Deconfounder: Estimating Treatment Effects over Time in the Presence of Hidden Confounders.\" In ICML 2020. code",
+                  "description": "Time Series Deconfounder: Estimating Treatment Effects over Time in the Presence of Hidden Confounders — Bica et al. ICML 2020 Code",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1225,7 +1653,7 @@
                 {
                   "node_type": "item",
                   "title": "Recurrent Marginal Structural Networks",
-                  "description": "Lim, Bryan. \"Forecasting Treatment Responses Over Time Using Recurrent Marginal Structural Networks.\" In Advances in Neural Information Processing Systems, pp. 7494-7504. 2018. Python",
+                  "description": "Forecasting Treatment Responses Over Time Using Recurrent Marginal Structural Networks — Lim NeurIPS 2018 Python",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1246,7 +1674,7 @@
                 {
                   "node_type": "item",
                   "title": "Longitudinal Targeted Maximum Likelihood Estimation",
-                  "description": "Petersen, Maya, Joshua Schwab, Susan Gruber, Nello Blaser, Michael Schomaker, and Mark van der Laan. \"Targeted maximum likelihood estimation for dynamic and static longitudinal marginal structural working models.\" Journal of causal inference 2, no. 2 (2014): 147-185. R",
+                  "description": "Targeted maximum likelihood estimation for dynamic and static longitudinal marginal structural working models — Petersen et al. J. Causal Inference 2014 R",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1267,7 +1695,7 @@
                 {
                   "node_type": "item",
                   "title": "Causal Transformer",
-                  "description": "Melnychuk, Valentyn, Dennis Frauen, and Stefan Feuerriegel. \"Causal Transformer for Estimating Counterfactual Outcomes.\" arXiv preprint arXiv:2204.07258 (2022). Python",
+                  "description": "Causal Transformer for Estimating Counterfactual Outcomes — Melnychuk et al. arXiv 2022 Python",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1295,7 +1723,7 @@
                 {
                   "node_type": "item",
                   "title": "Network Deconfounder",
-                  "description": "Guo, Ruocheng, Jundong Li, and Huan Liu. \"Learning Individual Causal Effects from Networked Observational Data.\" WSDM 2020. Python",
+                  "description": "Learning Individual Causal Effects from Networked Observational Data — Guo et al. WSDM 2020 Python",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1323,7 +1751,7 @@
                 {
                   "node_type": "item",
                   "title": "Causal Inference with Network Embeddings",
-                  "description": "Veitch, Victor, Yixin Wang, and David M. Blei. \"Using embeddings to correct for unobserved confounding.\" arXiv preprint arXiv:1902.04114 (2019). Python",
+                  "description": "Using embeddings to correct for unobserved confounding — Veitch et al. arXiv 2019 Python",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1344,7 +1772,7 @@
                 {
                   "node_type": "item",
                   "title": "Linked Causal Variational Autoencoder (LCVA)",
-                  "description": "Rakesh, Vineeth, Ruocheng Guo, Raha Moraffah, Nitin Agarwal, and Huan Liu. \"Linked Causal Variational Autoencoder for Inferring Paired Spillover Effects.\" CIKM 2018. Python",
+                  "description": "Linked Causal Variational Autoencoder for Inferring Paired Spillover Effects — Rakesh et al. CIKM 2018 Python",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1371,7 +1799,7 @@
                 {
                   "node_type": "item",
                   "title": "Method-of-moments Estimators",
-                  "description": "Li, Wenrui, Daniel L. Sussman, and Eric D. Kolaczyk. \"Causal Inference under Network Interference with Noise.\" arXiv preprint arXiv:2105.04518 (2021). code",
+                  "description": "Causal Inference under Network Interference with Noise — Li et al. arXiv 2021 Code",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1410,7 +1838,7 @@
             {
               "node_type": "item",
               "title": "DomainBed",
-              "description": "Gulrajani, Ishaan, and David Lopez-Paz. \"In Search of Lost Domain Generalization.\" In International Conference on Learning Representations. 2020. code",
+              "description": "In Search of Lost Domain Generalization — Gulrajani and Lopez-Paz ICLR 2020 Code",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1431,7 +1859,7 @@
             {
               "node_type": "item",
               "title": "WILDS",
-              "description": "Koh, Pang Wei, Shiori Sagawa, Henrik Marklund, Sang Michael Xie, Marvin Zhang, Akshay Balsubramani, Weihua Hu et al. \"Wilds: A benchmark of in-the-wild distribution shifts.\" In International Conference on Machine Learning, pp. 5637-5664. PMLR, 2021. code",
+              "description": "Wilds: A benchmark of in-the-wild distribution shifts — Koh et al. ICML 2021 Code",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1452,7 +1880,7 @@
             {
               "node_type": "item",
               "title": "IBM OoD",
-              "description": "Repository for theory and methods for Out-of-Distribution (OoD) generalization by IBM Research code",
+              "description": "Repository for theory and methods for Out-of-Distribution (OoD) generalization by IBM Research NA Code",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1473,7 +1901,7 @@
             {
               "node_type": "item",
               "title": "OoD Bench",
-              "description": "Ye, Nanyang, Kaican Li, Lanqing Hong, Haoyue Bai, Yiting Chen, Fengwei Zhou, and Zhenguo Li. \"Ood-bench: Benchmarking and understanding out-of-distribution generalization datasets and algorithms.\" arXiv preprint arXiv:2106.03721 (2021). code",
+              "description": "Ood-bench: Benchmarking and understanding out-of-distribution generalization datasets and algorithms — Ye et al. arXiv 2021 Code",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1494,7 +1922,7 @@
             {
               "node_type": "item",
               "title": "BEDS-Bench",
-              "description": "Avati, Anand, Martin Seneviratne, Emily Xue, Zhen Xu, Balaji Lakshminarayanan, and Andrew M. Dai. \"BEDS-Bench: Behavior of EHR-models under Distributional Shift--A Benchmark.\" arXiv preprint arXiv:2107.08189 (2021). code",
+              "description": "BEDS-Bench: Behavior of EHR-models under Distributional Shift--A Benchmark — Avati et al. arXiv 2021 Code",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1517,7 +1945,7 @@
                 {
                   "node_type": "item",
                   "title": "CIGA",
-                  "description": "Chen, Yongqiang, Yonggang Zhang, Yatao Bian, Han Yang, Kaili Ma, Binghui Xie, Tongliang Liu, Bo Han, and James Cheng. \"Learning Causally Invariant Representations for Out-of-Distribution Generalization on Graphs.\" In Advances in Neural Information Processing Systems (2022). code",
+                  "description": "Learning Causally Invariant Representations for Out-of-Distribution Generalization on Graphs — Chen et al. NeurIPS 2022 Code",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1561,7 +1989,7 @@
                 {
                   "node_type": "item",
                   "title": "Top-K Off-policy Correction",
-                  "description": "Chen, Minmin, Alex Beutel, Paul Covington, Sagar Jain, Francois Belletti, and Ed H. Chi. \"Top-k off-policy correction for a REINFORCE recommender system.\" In Proceedings of the Twelfth ACM International Conference on Web Search and Data Mining, pp. 456-464. ACM, 2019. Python",
+                  "description": "Top-k off-policy correction for a REINFORCE recommender system — Chen et al. WSDM 2019 Python",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1591,7 +2019,7 @@
                 {
                   "node_type": "item",
                   "title": "Unbiased Offline Recommender Learning",
-                  "description": "Saito, Yuta, Suguru Yaginuma, Yuta Nishino, Hayato Sakata, and Kazuhide Nakata. \"Unbiased Recommender Learning from Missing-Not-At-Random Implicit Feedback.\" In Proceedings of the 13th International Conference on Web Search and Data Mining, pp. 501-509. ACM, 2020. Python",
+                  "description": "Unbiased Recommender Learning from Missing-Not-At-Random Implicit Feedback — Saito et al. WSDM 2020 Python",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1618,7 +2046,7 @@
                 {
                   "node_type": "item",
                   "title": "Unbiased Offline Recommender Evaluation",
-                  "description": "Yang, Longqi, Yin Cui, Yuan Xuan, Chenyang Wang, Serge Belongie, and Deborah Estrin. \"Unbiased offline recommender evaluation for missing-not-at-random implicit feedback.\" In Proceedings of the 12th ACM Conference on Recommender Systems, pp. 279-287. ACM, 2018. Python",
+                  "description": "Unbiased offline recommender evaluation for missing-not-at-random implicit feedback — Yang et al. RecSys 2018 Python",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1646,7 +2074,7 @@
                 {
                   "node_type": "item",
                   "title": "Deconfounded Recsys",
-                  "description": "Wang, Yixin, Dawen Liang, Laurent Charlin, and David M. Blei. \"Causal Inference for Recommender Systems.\" In Proceedings of the Fourteenth ACM Conference on Recommender Systems (2020). Python",
+                  "description": "Causal Inference for Recommender Systems — Wang et al. RecSys 2020 Python",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1674,7 +2102,7 @@
                 {
                   "node_type": "item",
                   "title": "Causal Embedding for Recommendation",
-                  "description": "Bonner, Stephen, and Flavian Vasile. \"Causal embeddings for recommendation.\" In Proceedings of the 12th ACM Conference on Recommender Systems, pp. 104-112. ACM, 2018. (BEST PAPER) Python",
+                  "description": "Causal embeddings for recommendation — Bonner and Vasile RecSys 2018 Python",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1700,7 +2128,7 @@
                 {
                   "node_type": "item",
                   "title": "Domain Adversarial Matrix Factorization",
-                  "description": "Saito, Yuta, and Masahiro Nomura. \"Towards Resolving Propensity Contradiction in Offline Recommender Learning.\" In IJCAI 2022 code",
+                  "description": "Towards Resolving Propensity Contradiction in Offline Recommender Learning — Saito and Nomura IJCAI 2022 Code",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1728,7 +2156,7 @@
                 {
                   "node_type": "item",
                   "title": "Causal Embedding for User Interest and Conformity",
-                  "description": "Zheng, Y., Gao, C., Li, X., He, X., Li, Y., & Jin, D. (2021, April). Disentangling User Interest and Conformity for Recommendation with Causal Embedding. In Proceedings of the Web Conference 2021 (pp. 2980-2991). Python",
+                  "description": "Disentangling User Interest and Conformity for Recommendation with Causal Embedding — Zheng et al. WWW 2021 Python",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1767,7 +2195,7 @@
             {
               "node_type": "item",
               "title": "Policy-aware Estimator",
-              "description": "Oosterhuis, Harrie, and Maarten de Rijke. \"Policy-aware unbiased learning to rank for top-k rankings.\" In Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval, pp. 489-498. 2020. Python",
+              "description": "Policy-aware unbiased learning to rank for top-k rankings — Oosterhuis and de Rijke SIGIR 2020 Python",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1788,7 +2216,7 @@
             {
               "node_type": "item",
               "title": "Heckman^{rank}",
-              "description": "Ovaisi, Zohreh, Ragib Ahsan, Yifan Zhang, Kathryn Vasilaky, and Elena Zheleva. \"Correcting for Selection Bias in Learning-to-rank Systems.\" arXiv preprint arXiv:2001.11358 (2020). code",
+              "description": "Correcting for Selection Bias in Learning-to-rank Systems — Ovaisi et al. arXiv 2020 Code",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1809,7 +2237,7 @@
             {
               "node_type": "item",
               "title": "Unbiased LambdaMart",
-              "description": "Hu, Ziniu, Yang Wang, Qu Peng, and Hang Li. \"Unbiased LambdaMART: An Unbiased Pairwise Learning-to-Rank Algorithm.\" In The World Wide Web Conference, pp. 2830-2836. ACM, 2019. code",
+              "description": "Unbiased LambdaMART: An Unbiased Pairwise Learning-to-Rank Algorithm — Hu et al. WWW 2019 Code",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1834,7 +2262,7 @@
             {
               "node_type": "item",
               "title": "IPW_rank and the Dual Learning Algorithm",
-              "description": "Qingyao Ai, Keping Bi, Cheng Luo, Jiafeng Guo, W. Bruce Croft. 2018. Unbiased Learning to Rank with Unbiased Propensity Estimation. In Proceedings of SIGIR '18 Python",
+              "description": "Unbiased Learning to Rank with Unbiased Propensity Estimation — Ai et al. SIGIR 2018 Python",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1862,7 +2290,7 @@
             {
               "node_type": "item",
               "title": "Optimal Kernel Balancing",
-              "description": "Andrew Bennett, Nathan Kallus. \"Policy Evaluation with Latent Confounders via Optimal Balance\" Python",
+              "description": "Policy Evaluation with Latent Confounders via Optimal Balance — Bennett and Kallus arXiv 2019 Python",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1879,6 +2307,33 @@
                 "topics": []
               },
               "first_seen": "2026-08-29T00:40:46.224Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Open Bandit Pipeline",
+              "description": "Open Bandit Dataset and Pipeline: Towards Realistic and Reproducible Off-Policy Evaluation — Saito et al. NeurIPS 2021 Python",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Open Bandit Pipeline: a python library for bandit algorithms and off-policy evaluation",
+                "homepage": null,
+                "id": 272587927,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2024-06-03T11:04:44Z",
+                "open_issues": 34,
+                "owner": "st-tech",
+                "repo": "zr-obp",
+                "stars": 715,
+                "topics": [
+                  "contextual-bandits",
+                  "datasets",
+                  "multi-armed-bandits",
+                  "off-policy-evaluation",
+                  "research"
+                ]
+              },
+              "first_seen": "2026-10-28T21:17:59.926Z"
             }
           ],
           "description": null,
@@ -1890,7 +2345,7 @@
             {
               "node_type": "item",
               "title": "Causal Analysis with Lexicons",
-              "description": "Pryzant, Reid, Kelly Shen, Dan Jurafsky, and Stefan Wagner. \"Deconfounded lexicon induction for interpretable social science.\" NAACL 2018. Python",
+              "description": "Deconfounded lexicon induction for interpretable social science — Pryzant et al. NAACL 2018 Python",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1911,7 +2366,7 @@
             {
               "node_type": "item",
               "title": "Causal Text Embeddings",
-              "description": "Veitch, Victor, Dhanya Sridhar, and David M. Blei. \"Using Text Embeddings for Causal Inference.\" arXiv preprint arXiv:1905.12741 (2019). Python",
+              "description": "Using Text Embeddings for Causal Inference — Veitch et al. arXiv 2019 Python",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1932,7 +2387,7 @@
             {
               "node_type": "item",
               "title": "Handling Missing/Noisy Treatment",
-              "description": "Wood-Doughty, Zach, Ilya Shpitser, and Mark Dredze. \"Challenges of Using Text Classifiers for Causal Inference.\" In Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing, pp. 4586-4598. 2018. Python",
+              "description": "Challenges of Using Text Classifiers for Causal Inference — Wood-Doughty et al. EMNLP 2018 Python",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1959,8 +2414,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Mothilal, Ramaravind Kommiya, Amit Sharma, and Chenhao Tan. \"Explaining machine learning classifiers through diverse counterfactual explanations.\" arXiv preprint arXiv:1905.07697 (2019).",
-              "description": "Python",
+              "title": "Explaining machine learning classifiers through diverse counterfactual explanations",
+              "description": "Mothilal et al. arXiv 2019 Python",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1987,8 +2442,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Kusner, Matt J., Joshua Loftus, Chris Russell, and Ricardo Silva. \"Counterfactual fairness.\" In Advances in Neural Information Processing Systems, pp. 4066-4076. 2017.",
-              "description": "Python",
+              "title": "Counterfactual fairness",
+              "description": "Kusner et al. NeurIPS 2017 Python",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2008,8 +2463,8 @@
             },
             {
               "node_type": "item",
-              "title": "Wu, Yongkai, Lu Zhang, Xintao Wu, and Hanghang Tong. \"Pc-fairness: A unified framework for measuring causality-based fairness.\" Advances in Neural Information Processing Systems 32 (2019).",
-              "description": "yongkaiwu/Path-specific-Counterfactual-Fairness",
+              "title": "Pc-fairness: A unified framework for measuring causality-based fairness",
+              "description": "Wu et al. NeurIPS 2019 Code",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2029,8 +2484,29 @@
             },
             {
               "node_type": "item",
-              "title": "Garg, Sahaj, Vincent Perot, Nicole Limtiaco, Ankur Taly, Ed H. Chi, and Alex Beutel. \"Counterfactual fairness in text classification through robustness.\" In Proceedings of the 2019 AAAI/ACM Conference on AI, Ethics, and Society, pp. 219-226. 2019.",
-              "description": "SaiSakethAluru/Counterfactual-fairness",
+              "title": "Path-specific counterfactual fairness",
+              "description": "Chiappa AAAI 2019 Code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "This repository contains implementations and illustrative code to accompany DeepMind publications",
+                "homepage": null,
+                "id": 165826654,
+                "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
+                "last_commit": "2026-06-17T13:51:27Z",
+                "open_issues": 358,
+                "owner": "google-deepmind",
+                "repo": "deepmind-research",
+                "stars": 15254,
+                "topics": []
+              },
+              "first_seen": "2026-10-28T21:17:59.926Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Counterfactual fairness in text classification through robustness",
+              "description": "Garg et al. AIES 2019 Code",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2058,7 +2534,7 @@
             {
               "node_type": "item",
               "title": "Deconfounded RL",
-              "description": "Lu, Chaochao, Bernhard Schölkopf, and José Miguel Hernández-Lobato. \"Deconfounding reinforcement learning in observational settings.\" arXiv preprint arXiv:1812.10576 (2018). Python",
+              "description": "Deconfounding reinforcement learning in observational settings — Lu et al. arXiv 2018 Python",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2080,6 +2556,34 @@
           "description": null,
           "node_type": "group",
           "title": "Reinforcement Learning"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "PyWhy-LLM",
+              "description": "Causal reasoning and large language models: Opening a new frontier for causality — Kıcıman et al. arXiv 2023 Python",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Experimental library integrating LLM capabilities to support causal analyses ",
+                "homepage": null,
+                "id": 660777161,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-09-03T08:12:58Z",
+                "open_issues": 15,
+                "owner": "py-why",
+                "repo": "pywhyllm",
+                "stars": 316,
+                "topics": []
+              },
+              "first_seen": "2026-10-28T21:17:59.926Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Large Language Models"
         }
       ],
       "title": "Causal Machine Learning"
@@ -2094,7 +2598,7 @@
                 {
                   "node_type": "item",
                   "title": "IC algorithm",
-                  "description": "Python",
+                  "description": "A theory of inferred causation — Pearl and Verma KR 1991 Python",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2115,7 +2619,7 @@
                 {
                   "node_type": "item",
                   "title": "PC algorithm",
-                  "description": "P. Spirtes, C. Glymour, and R. Scheines. Causation, Prediction, and Search. The MIT Press, 2nd edition, 2000. Python R Julia",
+                  "description": "Causation, Prediction, and Search — Spirtes et al. Book 2000 Python R Julia",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2136,7 +2640,7 @@
                 {
                   "node_type": "item",
                   "title": "FCI algorithm",
-                  "description": "P. Spirtes, C. Glymour, and R. Scheines. Causation, Prediction, and Search. The MIT Press, 2nd edition, 2000. R Julia",
+                  "description": "Causation, Prediction, and Search — Spirtes et al. Book 2000 R Julia",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2164,7 +2668,7 @@
                 {
                   "node_type": "item",
                   "title": "DAGs with NO TEARS: Continuous optimization for structure learning",
-                  "description": "NeurIPS 2018 code",
+                  "description": "Zheng et al. NeurIPS 2018 Code",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2185,7 +2689,7 @@
                 {
                   "node_type": "item",
                   "title": "DAG-GNN: DAG Structure Learning with Graph Neural Networks",
-                  "description": "ICML 2019 code",
+                  "description": "Yu et al. ICML 2019 Code",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2206,7 +2710,7 @@
                 {
                   "node_type": "item",
                   "title": "Learning Sparse Nonparametric DAGs",
-                  "description": "AISTATS 2020 code",
+                  "description": "Zheng et al. AISTATS 2020 Code",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2227,7 +2731,7 @@
                 {
                   "node_type": "item",
                   "title": "Amortized Inference for Causal Structure Learning",
-                  "description": "Neurips 2022 code",
+                  "description": "Lorch et al. NeurIPS 2022 Code",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2252,6 +2756,55 @@
                     ]
                   },
                   "first_seen": "2026-08-29T00:40:46.224Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "DAGMA: Learning DAGs via M-matrices and a Log-Determinant Acyclicity Characterization",
+                  "description": "Bello et al. NeurIPS 2022 Code",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "A Python 3 package for learning Bayesian Networks (DAGs) from data. Official implementation of the paper \"DAGMA: Learning DAGs via M-matrices and a Log-Determinant Acyclicity Characterization\"",
+                    "homepage": "https://dagma.readthedocs.io/en/latest/",
+                    "id": 560158368,
+                    "language": "Python",
+                    "license": "Apache-2.0",
+                    "last_commit": "2024-01-14T19:51:41Z",
+                    "open_issues": 1,
+                    "owner": "kevinsbello",
+                    "repo": "dagma",
+                    "stars": 146,
+                    "topics": [
+                      "bayesian-networks",
+                      "causal-discovery",
+                      "dags",
+                      "graphical-models",
+                      "neurips-2022",
+                      "structure-learning"
+                    ]
+                  },
+                  "first_seen": "2026-10-28T21:17:59.926Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Deep End-to-end Causal Inference (DECI)",
+                  "description": "Geffner et al. arXiv 2022 Code",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 503315788,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-10-24T00:00:40Z",
+                    "open_issues": 87,
+                    "owner": "microsoft",
+                    "repo": "causica",
+                    "stars": 537,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-28T21:17:59.926Z"
                 }
               ],
               "description": null,
@@ -2263,7 +2816,7 @@
                 {
                   "node_type": "item",
                   "title": "BMLiNGAM",
-                  "description": "S. Shimizu and K. Bollen. Bayesian estimation of causal direction in acyclic structural equation models with individual-specific confounder variables and non-Gaussian distributions. Journal of Machine Learning Research, 15: 2629-2652, 2014. Python",
+                  "description": "Bayesian estimation of causal direction in acyclic structural equation models with individual-specific confounder variables and non-Gaussian distributions — Shimizu and Bollen JMLR 2014 Python",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2286,40 +2839,28 @@
                 {
                   "node_type": "item",
                   "title": "RECI",
-                  "description": "Blöbaum, Patrick, Dominik Janzing, Takashi Washio, Shohei Shimizu, and Bernhard Schölkopf. \"Cause-effect inference by comparing regression errors.\" In International Conference on Artificial Intelligence and Statistics, pp. 900-909. PMLR, 2018. in CausalDiscoveryToolbox",
+                  "description": "Cause-effect inference by comparing regression errors — Blöbaum et al. AISTATS 2018 in CausalDiscoveryToolbox",
                   "children": [],
                   "repo_info": {
                     "archived": false,
-                    "description": "Package for causal inference in graphs and in the pairwise settings. Tools for graph structure recovery and dependencies are included.",
-                    "homepage": "https://fentechsolutions.github.io/CausalDiscoveryToolbox/html/index.html",
-                    "id": 92927706,
-                    "language": "Python",
-                    "license": "MIT",
-                    "last_commit": "2025-10-13T07:40:06Z",
-                    "open_issues": 74,
-                    "owner": "FenTechSolutions",
+                    "description": null,
+                    "homepage": null,
+                    "id": 238206351,
+                    "language": null,
+                    "license": null,
+                    "last_commit": "2020-02-04T12:58:31Z",
+                    "open_issues": 0,
+                    "owner": "diviyank",
                     "repo": "CausalDiscoveryToolbox",
-                    "stars": 1244,
-                    "topics": [
-                      "algorithm",
-                      "causal-discovery",
-                      "causal-inference",
-                      "causal-models",
-                      "causality",
-                      "graph",
-                      "graph-structure-recovery",
-                      "inference",
-                      "machine-learning",
-                      "python",
-                      "toolbox"
-                    ]
+                    "stars": 9,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:40:46.224Z"
                 },
                 {
                   "node_type": "item",
                   "title": "bQCD",
-                  "description": "Tagasovska, Natasa, Valérie Chavez-Demoulin, and Thibault Vatter. \"Distinguishing cause from effect using quantiles: Bivariate quantile causal discovery.\" In International Conference on Machine Learning, pp. 9311-9323. PMLR, 2020. code",
+                  "description": "Distinguishing cause from effect using quantiles: Bivariate quantile causal discovery — Tagasovska et al. ICML 2020 Code",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2340,7 +2881,7 @@
                 {
                   "node_type": "item",
                   "title": "CGNN",
-                  "description": "Goudet, Olivier, Diviyan Kalainathan, Philippe Caillou, Isabelle Guyon, David Lopez-Paz, and Michele Sebag. \"Learning functional causal models with generative neural networks.\" In Explainable and interpretable models in computer vision and machine learning, pp. 39-80. Springer, Cham, 2018. code",
+                  "description": "Learning functional causal models with generative neural networks — Goudet et al. Springer 2018 Code",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2368,7 +2909,7 @@
                 {
                   "node_type": "item",
                   "title": "RCIT",
-                  "description": "R",
+                  "description": "Approximate kernel-based conditional independence tests for fast non-parametric causal discovery — Strobl et al. J. Causal Inference 2019 R",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2399,7 +2940,7 @@
                 {
                   "node_type": "item",
                   "title": "Scalable and Hybrid Ensemble-Based Causality Discovery",
-                  "description": "Pei Guo, Achuna Ofonedu, Jianwu Wang. \"Scalable and Hybrid Ensemble-Based Causality Discovery.\" In Proceedings of the 2020 IEEE International Conference on Smart Data Services (SMDS), pp. 72-80. Python",
+                  "description": "Scalable and Hybrid Ensemble-Based Causality Discovery — Guo et al. SMDS 2020 Python",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2432,7 +2973,7 @@
             {
               "node_type": "item",
               "title": "TCDF: Temporal Causal Discovery Framework",
-              "description": "Nauta, Meike, Doina Bucur, and Christin Seifert. \"Causal discovery with attention-based convolutional neural networks.\" Machine Learning and Knowledge Extraction. Pytorch",
+              "description": "Causal discovery with attention-based convolutional neural networks — Nauta et al. MAKE 2019 Pytorch",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2459,6 +3000,27 @@
                 ]
               },
               "first_seen": "2026-08-29T00:40:46.224Z"
+            },
+            {
+              "node_type": "item",
+              "title": "PCMCI",
+              "description": "Detecting and quantifying causal associations in large nonlinear time series datasets — Runge et al. Science Advances 2019 Python",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Tigramite is a python package for causal inference with a focus on time series data. The Tigramite documentation is at",
+                "homepage": "https://jakobrunge.github.io/tigramite/",
+                "id": 91324771,
+                "language": "Jupyter Notebook",
+                "license": "GPL-3.0",
+                "last_commit": "2026-01-14T22:41:36Z",
+                "open_issues": 20,
+                "owner": "jakobrunge",
+                "repo": "tigramite",
+                "stars": 1733,
+                "topics": []
+              },
+              "first_seen": "2026-10-28T21:17:59.926Z"
             }
           ],
           "description": null,
@@ -2470,7 +3032,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T20:56:24.759Z",
+    "last_updated": "2026-10-28T21:17:59.926Z",
     "original_repository_info": {
       "archived": false,
       "description": "An index of algorithms for learning causality with data",
@@ -2478,7 +3040,7 @@
       "id": 149516975,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-10-07T03:54:44Z",
+      "last_commit": "2026-10-28T08:42:28Z",
       "open_issues": 2,
       "owner": "rguo12",
       "repo": "awesome-causality-algorithms",
@@ -2496,7 +3058,7 @@
         "unconfoundedness-assumption"
       ]
     },
-    "original_repository_sha": "280dde9aeffde7f66b572cd36f652fe26191a9fb",
+    "original_repository_sha": "28dc6f4b1d271c8ae9c6d225866a989eb64b7ce2",
     "enhanced_repository": "enhansome/enhansome-causality-algorithms",
     "enhanced_repository_description": null,
     "title": "awesome-causality-algorithms with stars"
