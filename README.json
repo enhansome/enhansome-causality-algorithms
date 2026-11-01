@@ -123,11 +123,11 @@
                 "id": 135584946,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-31T17:28:23Z",
-                "open_issues": 206,
+                "last_commit": "2026-11-01T18:12:33Z",
+                "open_issues": 205,
                 "owner": "py-why",
                 "repo": "dowhy",
-                "stars": 8384,
+                "stars": 8385,
                 "topics": [
                   "bayesian-networks",
                   "causal-inference",
@@ -160,7 +160,7 @@
                 "open_issues": 429,
                 "owner": "py-why",
                 "repo": "EconML",
-                "stars": 4834,
+                "stars": 4837,
                 "topics": [
                   "causal-inference",
                   "causality",
@@ -287,8 +287,8 @@
                 "id": 294121258,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-30T15:48:15Z",
-                "open_issues": 21,
+                "last_commit": "2026-11-01T19:32:46Z",
+                "open_issues": 19,
                 "owner": "DoubleML",
                 "repo": "doubleml-for-py",
                 "stars": 795,
@@ -419,7 +419,7 @@
                 "id": 45061433,
                 "language": "Java",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-31T19:51:07Z",
+                "last_commit": "2026-11-01T02:02:08Z",
                 "open_issues": 4,
                 "owner": "cmu-phil",
                 "repo": "tetrad",
@@ -723,8 +723,8 @@
                 "id": 1420741072,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-10-31T15:58:32Z",
-                "open_issues": 1,
+                "last_commit": "2026-11-01T15:40:23Z",
+                "open_issues": 0,
                 "owner": "kazuyamagiwa",
                 "repo": "causal-automata",
                 "stars": 0,
@@ -735,7 +735,9 @@
                   "causality",
                   "cellular-automata",
                   "dag",
+                  "directed-acyclic-graph",
                   "gpu",
+                  "graphical-models",
                   "jax",
                   "machine-learning",
                   "python",
@@ -1486,7 +1488,7 @@
                     "open_issues": 6,
                     "owner": "bcallaway11",
                     "repo": "did",
-                    "stars": 424,
+                    "stars": 425,
                     "topics": []
                   },
                   "first_seen": "2026-10-28T21:17:59.926Z"
@@ -1935,7 +1937,7 @@
                 "open_issues": 3,
                 "owner": "Google-Health",
                 "repo": "records-research",
-                "stars": 234,
+                "stars": 235,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:40:46.224Z"
@@ -2498,7 +2500,7 @@
                 "open_issues": 358,
                 "owner": "google-deepmind",
                 "repo": "deepmind-research",
-                "stars": 15261,
+                "stars": 15263,
                 "topics": []
               },
               "first_seen": "2026-10-28T21:17:59.926Z"
@@ -3032,7 +3034,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T20:16:19.295Z",
+    "last_updated": "2026-11-01T20:48:13.461Z",
     "original_repository_info": {
       "archived": false,
       "description": "An index of algorithms for learning causality with data",
