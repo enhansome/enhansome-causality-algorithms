@@ -18,7 +18,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-04T16:50:44Z",
-                "open_issues": 73,
+                "open_issues": 74,
                 "owner": "py-why",
                 "repo": "causal-learn",
                 "stars": 1708,
@@ -123,11 +123,11 @@
                 "id": 135584946,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-02T23:07:37Z",
+                "last_commit": "2026-11-03T20:04:21Z",
                 "open_issues": 197,
                 "owner": "py-why",
                 "repo": "dowhy",
-                "stars": 8385,
+                "stars": 8387,
                 "topics": [
                   "bayesian-networks",
                   "causal-inference",
@@ -160,7 +160,7 @@
                 "open_issues": 427,
                 "owner": "py-why",
                 "repo": "EconML",
-                "stars": 4839,
+                "stars": 4840,
                 "topics": [
                   "causal-inference",
                   "causality",
@@ -188,7 +188,7 @@
                 "open_issues": 14,
                 "owner": "uber",
                 "repo": "causalml",
-                "stars": 6038,
+                "stars": 6039,
                 "topics": [
                   "causal-inference",
                   "incubation",
@@ -257,7 +257,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2023-10-21T16:05:46Z",
-                "open_issues": 42,
+                "open_issues": 41,
                 "owner": "maks-sh",
                 "repo": "scikit-uplift",
                 "stars": 819,
@@ -287,8 +287,8 @@
                 "id": 294121258,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-02T21:18:50Z",
-                "open_issues": 34,
+                "last_commit": "2026-11-03T13:55:07Z",
+                "open_issues": 32,
                 "owner": "DoubleML",
                 "repo": "doubleml-for-py",
                 "stars": 796,
@@ -317,8 +317,8 @@
                 "id": 539537904,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-02T18:27:16Z",
-                "open_issues": 174,
+                "last_commit": "2026-11-03T09:05:03Z",
+                "open_issues": 172,
                 "owner": "pymc-labs",
                 "repo": "CausalPy",
                 "stars": 1211,
@@ -383,7 +383,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-04T16:50:44Z",
-                "open_issues": 73,
+                "open_issues": 74,
                 "owner": "py-why",
                 "repo": "causal-learn",
                 "stars": 1708,
@@ -419,7 +419,7 @@
                 "id": 45061433,
                 "language": "Java",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-01T02:02:08Z",
+                "last_commit": "2026-11-03T21:10:00Z",
                 "open_issues": 4,
                 "owner": "cmu-phil",
                 "repo": "tetrad",
@@ -546,7 +546,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-11-02T14:34:11Z",
-                "open_issues": 673,
+                "open_issues": 677,
                 "owner": "pgmpy",
                 "repo": "pgmpy",
                 "stars": 3366,
@@ -723,7 +723,7 @@
                 "id": 1420741072,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-11-01T15:40:23Z",
+                "last_commit": "2026-11-03T14:36:28Z",
                 "open_issues": 0,
                 "owner": "kazuyamagiwa",
                 "repo": "causal-automata",
@@ -1488,7 +1488,7 @@
                     "open_issues": 6,
                     "owner": "bcallaway11",
                     "repo": "did",
-                    "stars": 425,
+                    "stars": 426,
                     "topics": []
                   },
                   "first_seen": "2026-10-28T21:17:59.926Z"
@@ -2326,7 +2326,7 @@
                 "open_issues": 34,
                 "owner": "st-tech",
                 "repo": "zr-obp",
-                "stars": 714,
+                "stars": 715,
                 "topics": [
                   "contextual-bandits",
                   "datasets",
@@ -2500,7 +2500,7 @@
                 "open_issues": 358,
                 "owner": "google-deepmind",
                 "repo": "deepmind-research",
-                "stars": 15267,
+                "stars": 15269,
                 "topics": []
               },
               "first_seen": "2026-10-28T21:17:59.926Z"
@@ -2577,7 +2577,7 @@
                 "open_issues": 15,
                 "owner": "py-why",
                 "repo": "pywhyllm",
-                "stars": 317,
+                "stars": 318,
                 "topics": []
               },
               "first_seen": "2026-10-28T21:17:59.926Z"
@@ -2683,7 +2683,7 @@
                     "open_issues": 8,
                     "owner": "xunzheng",
                     "repo": "notears",
-                    "stars": 693,
+                    "stars": 694,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:40:46.224Z"
@@ -2725,7 +2725,7 @@
                     "open_issues": 8,
                     "owner": "xunzheng",
                     "repo": "notears",
-                    "stars": 693,
+                    "stars": 694,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:40:46.224Z"
@@ -3034,7 +3034,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T23:40:13.224Z",
+    "last_updated": "2026-11-03T21:57:25.700Z",
     "original_repository_info": {
       "archived": false,
       "description": "An index of algorithms for learning causality with data",
