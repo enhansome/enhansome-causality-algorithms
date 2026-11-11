@@ -18,7 +18,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-04T16:50:44Z",
-                "open_issues": 75,
+                "open_issues": 76,
                 "owner": "py-why",
                 "repo": "causal-learn",
                 "stars": 1712,
@@ -123,8 +123,8 @@
                 "id": 135584946,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-10T09:53:13Z",
-                "open_issues": 196,
+                "last_commit": "2026-11-11T21:26:20Z",
+                "open_issues": 195,
                 "owner": "py-why",
                 "repo": "dowhy",
                 "stars": 8401,
@@ -160,7 +160,7 @@
                 "open_issues": 428,
                 "owner": "py-why",
                 "repo": "EconML",
-                "stars": 4849,
+                "stars": 4850,
                 "topics": [
                   "causal-inference",
                   "causality",
@@ -287,8 +287,8 @@
                 "id": 294121258,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-10T07:56:43Z",
-                "open_issues": 24,
+                "last_commit": "2026-11-11T06:17:31Z",
+                "open_issues": 22,
                 "owner": "DoubleML",
                 "repo": "doubleml-for-py",
                 "stars": 799,
@@ -317,8 +317,8 @@
                 "id": 539537904,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-10T14:12:17Z",
-                "open_issues": 177,
+                "last_commit": "2026-11-11T11:41:15Z",
+                "open_issues": 180,
                 "owner": "pymc-labs",
                 "repo": "CausalPy",
                 "stars": 1213,
@@ -383,7 +383,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-04T16:50:44Z",
-                "open_issues": 75,
+                "open_issues": 76,
                 "owner": "py-why",
                 "repo": "causal-learn",
                 "stars": 1712,
@@ -419,7 +419,7 @@
                 "id": 45061433,
                 "language": "Java",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-10T20:29:46Z",
+                "last_commit": "2026-11-11T20:42:11Z",
                 "open_issues": 1,
                 "owner": "cmu-phil",
                 "repo": "tetrad",
@@ -549,7 +549,7 @@
                 "open_issues": 680,
                 "owner": "pgmpy",
                 "repo": "pgmpy",
-                "stars": 3370,
+                "stars": 3372,
                 "topics": [
                   "bayesian-networks",
                   "causal-discovery",
@@ -1710,7 +1710,7 @@
                     "open_issues": 2,
                     "owner": "Valentyn1997",
                     "repo": "CausalTransformer",
-                    "stars": 197,
+                    "stars": 198,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:40:46.224Z"
@@ -2326,7 +2326,7 @@
                 "open_issues": 34,
                 "owner": "st-tech",
                 "repo": "zr-obp",
-                "stars": 718,
+                "stars": 719,
                 "topics": [
                   "contextual-bandits",
                   "datasets",
@@ -2500,7 +2500,7 @@
                 "open_issues": 358,
                 "owner": "google-deepmind",
                 "repo": "deepmind-research",
-                "stars": 15269,
+                "stars": 15270,
                 "topics": []
               },
               "first_seen": "2026-10-28T21:17:59.926Z"
@@ -3034,7 +3034,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T21:56:00.816Z",
+    "last_updated": "2026-11-11T23:00:06.110Z",
     "original_repository_info": {
       "archived": false,
       "description": "An index of algorithms for learning causality with data",
