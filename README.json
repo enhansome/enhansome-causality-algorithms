@@ -21,7 +21,7 @@
                 "open_issues": 76,
                 "owner": "py-why",
                 "repo": "causal-learn",
-                "stars": 1717,
+                "stars": 1718,
                 "topics": [
                   "causal",
                   "causal-discovery",
@@ -124,10 +124,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-11-17T08:56:14Z",
-                "open_issues": 187,
+                "open_issues": 188,
                 "owner": "py-why",
                 "repo": "dowhy",
-                "stars": 8408,
+                "stars": 8410,
                 "topics": [
                   "bayesian-networks",
                   "causal-inference",
@@ -156,11 +156,11 @@
                 "id": 131646318,
                 "language": "Jupyter Notebook",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-19T21:11:25Z",
-                "open_issues": 422,
+                "last_commit": "2026-11-20T20:49:11Z",
+                "open_issues": 421,
                 "owner": "py-why",
                 "repo": "EconML",
-                "stars": 4857,
+                "stars": 4861,
                 "topics": [
                   "causal-inference",
                   "causality",
@@ -188,7 +188,7 @@
                 "open_issues": 23,
                 "owner": "uber",
                 "repo": "causalml",
-                "stars": 6047,
+                "stars": 6048,
                 "topics": [
                   "causal-inference",
                   "incubation",
@@ -260,7 +260,7 @@
                 "open_issues": 41,
                 "owner": "maks-sh",
                 "repo": "scikit-uplift",
-                "stars": 819,
+                "stars": 820,
                 "topics": [
                   "causal-inference",
                   "causality",
@@ -317,11 +317,11 @@
                 "id": 539537904,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-19T21:21:15Z",
-                "open_issues": 178,
+                "last_commit": "2026-11-20T14:16:46Z",
+                "open_issues": 180,
                 "owner": "pymc-labs",
                 "repo": "CausalPy",
-                "stars": 1214,
+                "stars": 1215,
                 "topics": [
                   "causal-inference",
                   "pymc",
@@ -343,11 +343,11 @@
                 "id": 1026640764,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-19T15:51:44Z",
-                "open_issues": 5,
+                "last_commit": "2026-11-20T18:57:54Z",
+                "open_issues": 7,
                 "owner": "brycewang-stanford",
                 "repo": "StatsPAI",
-                "stars": 376,
+                "stars": 377,
                 "topics": [
                   "agent-native",
                   "ai-agents",
@@ -428,7 +428,7 @@
                 "open_issues": 76,
                 "owner": "py-why",
                 "repo": "causal-learn",
-                "stars": 1717,
+                "stars": 1718,
                 "topics": [
                   "causal",
                   "causal-discovery",
@@ -461,7 +461,7 @@
                 "id": 45061433,
                 "language": "Java",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-19T19:14:22Z",
+                "last_commit": "2026-11-20T16:38:31Z",
                 "open_issues": 1,
                 "owner": "cmu-phil",
                 "repo": "tetrad",
@@ -540,7 +540,7 @@
                 "open_issues": 34,
                 "owner": "mckinsey",
                 "repo": "causalnex",
-                "stars": 2491,
+                "stars": 2492,
                 "topics": [
                   "bayesian-inference",
                   "bayesian-networks",
@@ -587,11 +587,11 @@
                 "id": 12968651,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-19T15:48:00Z",
-                "open_issues": 674,
+                "last_commit": "2026-11-20T17:00:57Z",
+                "open_issues": 673,
                 "owner": "pgmpy",
                 "repo": "pgmpy",
-                "stars": 3386,
+                "stars": 3387,
                 "topics": [
                   "bayesian-networks",
                   "causal-discovery",
@@ -765,8 +765,8 @@
                 "id": 1420741072,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-11-12T14:50:38Z",
-                "open_issues": 0,
+                "last_commit": "2026-11-20T11:04:41Z",
+                "open_issues": 1,
                 "owner": "kazuyamagiwa",
                 "repo": "causal-automata",
                 "stars": 2,
@@ -1057,7 +1057,7 @@
                         "open_issues": 69,
                         "owner": "grf-labs",
                         "repo": "grf",
-                        "stars": 1120,
+                        "stars": 1121,
                         "topics": [
                           "causal-forest",
                           "causal-inference",
@@ -1085,7 +1085,7 @@
                         "open_issues": 69,
                         "owner": "grf-labs",
                         "repo": "grf",
-                        "stars": 1120,
+                        "stars": 1121,
                         "topics": [
                           "causal-forest",
                           "causal-inference",
@@ -1165,7 +1165,7 @@
                         "open_issues": 2,
                         "owner": "xnie",
                         "repo": "rlearner",
-                        "stars": 127,
+                        "stars": 128,
                         "topics": []
                       },
                       "first_seen": "2026-10-28T21:17:59.926Z"
@@ -1530,7 +1530,7 @@
                     "open_issues": 6,
                     "owner": "bcallaway11",
                     "repo": "did",
-                    "stars": 427,
+                    "stars": 428,
                     "topics": []
                   },
                   "first_seen": "2026-10-28T21:17:59.926Z"
@@ -2542,7 +2542,7 @@
                 "open_issues": 360,
                 "owner": "google-deepmind",
                 "repo": "deepmind-research",
-                "stars": 15281,
+                "stars": 15284,
                 "topics": []
               },
               "first_seen": "2026-10-28T21:17:59.926Z"
@@ -3076,7 +3076,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T23:12:39.076Z",
+    "last_updated": "2026-11-20T22:47:46.849Z",
     "original_repository_info": {
       "archived": false,
       "description": "An index of algorithms for learning causality with data",
