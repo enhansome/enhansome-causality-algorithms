@@ -21,7 +21,7 @@
                 "open_issues": 76,
                 "owner": "py-why",
                 "repo": "causal-learn",
-                "stars": 1718,
+                "stars": 1721,
                 "topics": [
                   "causal",
                   "causal-discovery",
@@ -58,7 +58,7 @@
                 "open_issues": 24,
                 "owner": "huawei-noah",
                 "repo": "trustworthyAI",
-                "stars": 1153,
+                "stars": 1154,
                 "topics": [
                   "causal-discovery",
                   "causal-inference",
@@ -291,7 +291,7 @@
                 "open_issues": 24,
                 "owner": "DoubleML",
                 "repo": "doubleml-for-py",
-                "stars": 801,
+                "stars": 803,
                 "topics": [
                   "causal-inference",
                   "data-science",
@@ -317,11 +317,11 @@
                 "id": 539537904,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-20T14:16:46Z",
-                "open_issues": 180,
+                "last_commit": "2026-11-21T14:24:11Z",
+                "open_issues": 179,
                 "owner": "pymc-labs",
                 "repo": "CausalPy",
-                "stars": 1215,
+                "stars": 1216,
                 "topics": [
                   "causal-inference",
                   "pymc",
@@ -343,11 +343,11 @@
                 "id": 1026640764,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-20T18:57:54Z",
-                "open_issues": 7,
+                "last_commit": "2026-11-21T16:15:52Z",
+                "open_issues": 8,
                 "owner": "brycewang-stanford",
                 "repo": "StatsPAI",
-                "stars": 377,
+                "stars": 378,
                 "topics": [
                   "agent-native",
                   "ai-agents",
@@ -428,7 +428,7 @@
                 "open_issues": 76,
                 "owner": "py-why",
                 "repo": "causal-learn",
-                "stars": 1718,
+                "stars": 1721,
                 "topics": [
                   "causal",
                   "causal-discovery",
@@ -587,7 +587,7 @@
                 "id": 12968651,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-20T17:00:57Z",
+                "last_commit": "2026-11-21T06:11:04Z",
                 "open_issues": 673,
                 "owner": "pgmpy",
                 "repo": "pgmpy",
@@ -628,7 +628,7 @@
                 "open_issues": 20,
                 "owner": "jakobrunge",
                 "repo": "tigramite",
-                "stars": 1741,
+                "stars": 1742,
                 "topics": []
               },
               "first_seen": "2026-10-28T21:17:59.926Z"
@@ -1305,7 +1305,7 @@
                     "language": "R",
                     "license": null,
                     "last_commit": "2026-09-27T15:10:52Z",
-                    "open_issues": 3,
+                    "open_issues": 4,
                     "owner": "kosukeimai",
                     "repo": "CBPS",
                     "stars": 30,
@@ -1581,7 +1581,7 @@
                     "language": "R",
                     "license": null,
                     "last_commit": "2026-10-05T01:15:33Z",
-                    "open_issues": 55,
+                    "open_issues": 56,
                     "owner": "kosukeimai",
                     "repo": "mediation",
                     "stars": 75,
@@ -2046,7 +2046,7 @@
                     "open_issues": 1,
                     "owner": "awarebayes",
                     "repo": "RecNN",
-                    "stars": 589,
+                    "stars": 590,
                     "topics": [
                       "library",
                       "news-recommendation",
@@ -2542,7 +2542,7 @@
                 "open_issues": 360,
                 "owner": "google-deepmind",
                 "repo": "deepmind-research",
-                "stars": 15284,
+                "stars": 15289,
                 "topics": []
               },
               "first_seen": "2026-10-28T21:17:59.926Z"
@@ -2746,7 +2746,7 @@
                     "open_issues": 24,
                     "owner": "fishmoon1234",
                     "repo": "DAG-GNN",
-                    "stars": 330,
+                    "stars": 331,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:40:46.224Z"
@@ -3061,7 +3061,7 @@
                 "open_issues": 20,
                 "owner": "jakobrunge",
                 "repo": "tigramite",
-                "stars": 1741,
+                "stars": 1742,
                 "topics": []
               },
               "first_seen": "2026-10-28T21:17:59.926Z"
@@ -3076,7 +3076,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T22:47:46.849Z",
+    "last_updated": "2026-11-21T21:51:52.043Z",
     "original_repository_info": {
       "archived": false,
       "description": "An index of algorithms for learning causality with data",
@@ -3088,7 +3088,7 @@
       "open_issues": 2,
       "owner": "rguo12",
       "repo": "awesome-causality-algorithms",
-      "stars": 3305,
+      "stars": 3304,
       "topics": [
         "awesome",
         "baselines",
